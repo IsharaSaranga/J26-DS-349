@@ -20,6 +20,9 @@ data/processed/
 data/pilot/*.csv
 data/pilot/*.parquet
 
+# Generated figures
+outputs/figures/
+
 # Trained model artifacts
 models/
 *.joblib
