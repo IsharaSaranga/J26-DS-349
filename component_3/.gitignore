@@ -20,8 +20,6 @@ data/processed/
 data/pilot/*.csv
 data/pilot/*.parquet
 
-# Generated figures
-outputs/figures/
 
 # Trained model artifacts
 models/
@@ -52,3 +50,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+
+scripts/__pycache__/
+scripts/
