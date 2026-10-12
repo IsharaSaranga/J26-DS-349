@@ -1,0 +1,17 @@
+{
+  "raw_rows": 899,
+  "cleaned_rows": 896,
+  "rows_removed": 3,
+  "products": 10,
+  "zero_helpful_count": 550,
+  "zero_helpful_pct": 61.38392857142857,
+  "raw_helpful_skewness": 8.392157539617484,
+  "log_helpful_skewness": 1.9709097278178074,
+  "earliest_review": "2018-07-06 05:05:59.337000+00:00",
+  "latest_review": "2023-03-19 04:55:16.370000+00:00",
+  "verified_purchase_pct": 93.19196428571429,
+  "age_helpful_spearman_rho": -0.07020511491894375,
+  "age_helpful_spearman_p": 0.03562979862401527,
+  "length_helpful_spearman_rho": 0.4314106652437756,
+  "length_helpful_spearman_p": 6.468547418455285e-42
+}

@@ -1,0 +1,5 @@
+target,spearman_vs_raw_helpful,p_value
+raw_helpful,1.0,0.0
+log_helpful,1.0,0.0
+product_relative,0.8640300652250742,1.0736930332173821e-268
+age_adjusted,0.9789668769117609,0.0
