@@ -1,0 +1,7 @@
+﻿user_id,aspect,importance,confidence,max_budget
+U001,battery,5,0.9,170000
+U001,camera,3,0.7,170000
+U001,performance,4,0.85,170000
+U001,display,3,0.8,170000
+U001,durability,2,0.75,170000
+U001,price,4,0.9,170000
