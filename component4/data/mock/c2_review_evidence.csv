@@ -1,0 +1,91 @@
+﻿review_id,product_id,aspect,evidence_quality,representative_evidence
+R001,P001,battery,0.94,Battery easily lasts through a full day of normal use.
+R002,P001,battery,0.86,Battery life is generally reliable for daily use.
+R003,P001,battery,0.72,Heavy use reduces battery life faster than expected.
+R004,P001,camera,0.88,Photos are detailed in good lighting conditions.
+R005,P001,camera,0.78,Camera quality is acceptable for everyday use.
+R006,P001,camera,0.66,Low-light photos can lose detail and clarity.
+R007,P001,performance,0.95,Apps open quickly and multitasking feels smooth.
+R008,P001,performance,0.88,Performance remains stable during normal workloads.
+R009,P001,performance,0.74,Long gaming sessions may cause occasional slowdowns.
+R010,P001,display,0.86,The display is bright and easy to read indoors.
+R011,P001,display,0.8,Colours and viewing angles are generally good.
+R012,P001,display,0.69,Outdoor visibility can be weaker under strong sunlight.
+R013,P001,durability,0.87,The device feels solid and well built.
+R014,P001,durability,0.81,Build quality appears suitable for regular daily use.
+R015,P001,durability,0.67,Some users report minor wear after extended use.
+R016,P001,price,0.85,The product offers reasonable value for its features.
+R017,P001,price,0.8,The price is competitive compared with similar devices.
+R018,P001,price,0.69,Some users consider the price high for the offered features.
+R019,P002,battery,0.78,Battery easily lasts through a full day of normal use.
+R020,P002,battery,0.7,Battery life is generally reliable for daily use.
+R021,P002,battery,0.56,Heavy use reduces battery life faster than expected.
+R022,P002,camera,0.93,Photos are detailed in good lighting conditions.
+R023,P002,camera,0.83,Camera quality is acceptable for everyday use.
+R024,P002,camera,0.71,Low-light photos can lose detail and clarity.
+R025,P002,performance,0.91,Apps open quickly and multitasking feels smooth.
+R026,P002,performance,0.84,Performance remains stable during normal workloads.
+R027,P002,performance,0.7,Long gaming sessions may cause occasional slowdowns.
+R028,P002,display,0.86,The display is bright and easy to read indoors.
+R029,P002,display,0.8,Colours and viewing angles are generally good.
+R030,P002,display,0.69,Outdoor visibility can be weaker under strong sunlight.
+R031,P002,durability,0.87,The device feels solid and well built.
+R032,P002,durability,0.81,Build quality appears suitable for regular daily use.
+R033,P002,durability,0.67,Some users report minor wear after extended use.
+R034,P002,price,0.85,The product offers reasonable value for its features.
+R035,P002,price,0.8,The price is competitive compared with similar devices.
+R036,P002,price,0.69,Some users consider the price high for the offered features.
+R037,P003,battery,0.9,Battery easily lasts through a full day of normal use.
+R038,P003,battery,0.82,Battery life is generally reliable for daily use.
+R039,P003,battery,0.68,Heavy use reduces battery life faster than expected.
+R040,P003,camera,0.88,Photos are detailed in good lighting conditions.
+R041,P003,camera,0.78,Camera quality is acceptable for everyday use.
+R042,P003,camera,0.66,Low-light photos can lose detail and clarity.
+R043,P003,performance,0.96,Apps open quickly and multitasking feels smooth.
+R044,P003,performance,0.89,Performance remains stable during normal workloads.
+R045,P003,performance,0.75,Long gaming sessions may cause occasional slowdowns.
+R046,P003,display,0.86,The display is bright and easy to read indoors.
+R047,P003,display,0.8,Colours and viewing angles are generally good.
+R048,P003,display,0.69,Outdoor visibility can be weaker under strong sunlight.
+R049,P003,durability,0.87,The device feels solid and well built.
+R050,P003,durability,0.81,Build quality appears suitable for regular daily use.
+R051,P003,durability,0.67,Some users report minor wear after extended use.
+R052,P003,price,0.75,The product offers reasonable value for its features.
+R053,P003,price,0.7,The price is competitive compared with similar devices.
+R054,P003,price,0.59,Some users consider the price high for the offered features.
+R055,P004,battery,0.9,Battery easily lasts through a full day of normal use.
+R056,P004,battery,0.82,Battery life is generally reliable for daily use.
+R057,P004,battery,0.68,Heavy use reduces battery life faster than expected.
+R058,P004,camera,0.82,Photos are detailed in good lighting conditions.
+R059,P004,camera,0.72,Camera quality is acceptable for everyday use.
+R060,P004,camera,0.6,Low-light photos can lose detail and clarity.
+R061,P004,performance,0.91,Apps open quickly and multitasking feels smooth.
+R062,P004,performance,0.84,Performance remains stable during normal workloads.
+R063,P004,performance,0.7,Long gaming sessions may cause occasional slowdowns.
+R064,P004,display,0.86,The display is bright and easy to read indoors.
+R065,P004,display,0.8,Colours and viewing angles are generally good.
+R066,P004,display,0.69,Outdoor visibility can be weaker under strong sunlight.
+R067,P004,durability,0.87,The device feels solid and well built.
+R068,P004,durability,0.81,Build quality appears suitable for regular daily use.
+R069,P004,durability,0.67,Some users report minor wear after extended use.
+R070,P004,price,0.91,The product offers reasonable value for its features.
+R071,P004,price,0.86,The price is competitive compared with similar devices.
+R072,P004,price,0.75,Some users consider the price high for the offered features.
+R073,P005,battery,0.9,Battery easily lasts through a full day of normal use.
+R074,P005,battery,0.82,Battery life is generally reliable for daily use.
+R075,P005,battery,0.68,Heavy use reduces battery life faster than expected.
+R076,P005,camera,0.88,Photos are detailed in good lighting conditions.
+R077,P005,camera,0.78,Camera quality is acceptable for everyday use.
+R078,P005,camera,0.66,Low-light photos can lose detail and clarity.
+R079,P005,performance,0.91,Apps open quickly and multitasking feels smooth.
+R080,P005,performance,0.84,Performance remains stable during normal workloads.
+R081,P005,performance,0.7,Long gaming sessions may cause occasional slowdowns.
+R082,P005,display,0.86,The display is bright and easy to read indoors.
+R083,P005,display,0.8,Colours and viewing angles are generally good.
+R084,P005,display,0.69,Outdoor visibility can be weaker under strong sunlight.
+R085,P005,durability,0.93,The device feels solid and well built.
+R086,P005,durability,0.87,Build quality appears suitable for regular daily use.
+R087,P005,durability,0.73,Some users report minor wear after extended use.
+R088,P005,price,0.85,The product offers reasonable value for its features.
+R089,P005,price,0.8,The price is competitive compared with similar devices.
+R090,P005,price,0.69,Some users consider the price high for the offered features.
