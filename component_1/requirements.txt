@@ -11,3 +11,4 @@ tqdm
 pytest
 jupyterlab
 ipykernel
+huggingface_hub
