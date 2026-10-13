@@ -1,0 +1,7 @@
+domain,sentiment,count
+laptop,negative,921
+laptop,neutral,177
+laptop,positive,1857
+phone,negative,1057
+phone,neutral,198
+phone,positive,3555
