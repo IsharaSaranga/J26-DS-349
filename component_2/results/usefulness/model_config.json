@@ -1,0 +1,19 @@
+{
+  "model": "TF-IDF + Ridge Regression",
+  "alpha": 10.0,
+  "target": "log1p(helpful_vote)",
+  "text_input": "title + review text",
+  "tfidf_ngram_range": [
+    1,
+    2
+  ],
+  "tfidf_min_df": 2,
+  "tfidf_max_features": 10000,
+  "tfidf_sublinear_tf": true,
+  "split": "within-product chronological train/validation/test",
+  "train_rows": 625,
+  "validation_rows": 134,
+  "test_rows": 137,
+  "model_selection": "alpha selected using validation ranking performance with regression-error trade-off",
+  "scope": "smartphone development pilot"
+}
