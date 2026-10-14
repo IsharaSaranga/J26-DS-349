@@ -1,0 +1,40 @@
+{
+  "budget_k": 5,
+  "mmr_lambda": 0.7,
+  "full_weights": {
+    "usefulness": 0.3,
+    "representativeness": 0.25,
+    "coverage": 0.2,
+    "minority": 0.25,
+    "redundancy": 0.2
+  },
+  "minority_reserved_slots": 2,
+  "budget_values": [
+    3,
+    5,
+    7,
+    10
+  ],
+  "minority_weight_values": [
+    0.0,
+    0.1,
+    0.25,
+    0.4
+  ],
+  "redundancy_weight_values": [
+    0.0,
+    0.1,
+    0.2,
+    0.3,
+    0.4
+  ],
+  "baselines": [
+    "ObservedHelpfulTopK",
+    "PredictedUsefulnessTopK",
+    "HelpfulnessMMR",
+    "AspectCoverage",
+    "ProposedNoMinority",
+    "FullProposed"
+  ],
+  "mock_c1_warning": "Aspect/sentiment, minority, coverage and fidelity outputs use synthetic integration-test C1 labels."
+}
