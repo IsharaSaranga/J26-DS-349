@@ -1,0 +1,21 @@
+{
+  "tables": [
+    "results\\pp1_evidence\\function1_test_baseline_comparison.csv",
+    "results\\pp1_evidence\\function2_selector_comparison.csv",
+    "results\\pp1_evidence\\ablation_summary.csv",
+    "results\\pp1_evidence\\budget_sensitivity_summary.csv",
+    "results\\pp1_evidence\\statistical_summary.csv",
+    "results\\pp1_evidence\\progress_status.csv",
+    "results\\pp1_evidence\\claim_boundaries.csv",
+    "results\\pp1_evidence\\pp1_selector_summary.csv"
+  ],
+  "figures": [
+    "results\\pp1_evidence\\figures\\01_function1_error_comparison.png",
+    "results\\pp1_evidence\\figures\\02_selector_key_metrics.png",
+    "results\\pp1_evidence\\figures\\03_priority_minority_coverage.png",
+    "results\\pp1_evidence\\figures\\04_ablation_benefit_differences.png",
+    "results\\pp1_evidence\\figures\\05_budget_sensitivity.png"
+  ],
+  "summary": "results\\pp1_evidence\\component2_pp1_evidence_summary.md",
+  "limitation": "C1-derived evidence currently uses synthetic integration-test data."
+}

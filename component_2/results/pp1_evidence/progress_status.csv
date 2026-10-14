@@ -1,0 +1,12 @@
+work_package,status,evidence,claim_type
+Smartphone pilot data preparation and EDA,Completed,896 cleaned reviews across 10 products,Real-data implementation evidence
+Function 1 usefulness model,Completed – preliminary model,TF-IDF + Ridge; chronological split; held-out metrics and inference tests,Real-data held-out prototype evidence
+Semantic representation,Completed,Sentence-BERT embeddings for 896 reviews,Real-review representation evidence
+C1 input integration,Prototype integration completed,Validated stable review-ID joins and provisional contract,Synthetic C1 integration test only
+Supported-minority qualification,Prototype completed,"Support, prevalence and confidence qualification pipeline",Synthetic C1 diagnostic only
+Function 2 constrained selector,Completed – first prototype,Fixed budget: 5 reviews × 10 products,Mixed real-review + synthetic-C1 evidence
+Baseline / ablation / sensitivity evaluation,Completed – pilot,Six selectors; ablations; budget and weight sensitivity,Prototype evaluation evidence
+Statistical validation,Completed – exploratory pilot,"Wilcoxon, bootstrap CI and Holm correction across 10 products",Exploratory prototype evidence
+Real C1 replacement,Pending,Final real C1 output not yet available,Remaining work
+Broader smartphone + laptop evaluation,Pending,Current implementation uses smartphone pilot only,Remaining work
+Final model / threshold / weight validation,Pending,Current settings are preliminary,Remaining work
