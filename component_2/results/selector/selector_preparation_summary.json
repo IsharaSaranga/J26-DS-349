@@ -1,0 +1,7 @@
+{
+  "reviews": 896,
+  "products": 10,
+  "embedding_dimension": 384,
+  "reviews_supporting_mock_minority": 576,
+  "mock_c1_warning": "Aspect/sentiment and minority fields are synthetic integration-test placeholders."
+}

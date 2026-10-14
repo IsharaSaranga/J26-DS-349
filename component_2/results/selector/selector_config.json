@@ -1,0 +1,18 @@
+{
+  "budget_k": 5,
+  "weights": {
+    "usefulness": 0.3,
+    "representativeness": 0.25,
+    "coverage": 0.2,
+    "minority": 0.25,
+    "redundancy_penalty": 0.2
+  },
+  "minority_priority_groups": 2,
+  "minority_reserved_slots": 2,
+  "selector": "two_phase_constrained_greedy_prototype",
+  "representativeness": "product_centroid_cosine_similarity",
+  "redundancy": "maximum_cosine_similarity_to_selected",
+  "opinion_fidelity": "jensen_shannon_divergence",
+  "baseline": "predicted_usefulness_top_k",
+  "mock_c1_warning": "Aspect/sentiment and minority fields are synthetic integration-test placeholders."
+}
