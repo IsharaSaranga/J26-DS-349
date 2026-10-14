@@ -1,0 +1,6 @@
+evidence_area,safe_pp1_wording,avoid_wording
+Function 1 held-out metrics,Preliminary held-out usefulness-model results on the real smartphone pilot.,Final usefulness model performance.
+Minority recall / priority coverage,Prototype diagnostics show that the explicit minority mechanism preserves more supported minority evidence.,Final research proves minority preservation on real C1 outputs.
+Ablation significance,Exploratory product-level evidence supports the minority and representativeness mechanisms.,The method is statistically superior overall.
+Baseline comparison,The selector shows an intended multi-objective trade-off rather than maximizing usefulness alone.,The proposed method is best on every metric.
+Current C1 integration,The C1→C2 software contract is tested using clearly labelled synthetic fixtures.,Real C1 integration is complete.

@@ -1,0 +1,24 @@
+{
+  "products": 10,
+  "bootstrap_iterations": 10000,
+  "bootstrap_ci": 0.95,
+  "main_multiple_testing_correction": "Holm across all main baseline tests",
+  "ablation_multiple_testing_correction": "Holm across targeted ablation tests",
+  "reserved_slot_values": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "current_reserved_slots": 2,
+  "selection_budget_k": 5,
+  "full_weights": {
+    "usefulness": 0.3,
+    "representativeness": 0.25,
+    "coverage": 0.2,
+    "minority": 0.25,
+    "redundancy": 0.2
+  },
+  "interpretation_warning": "C1-derived aspect/sentiment, minority, coverage and fidelity statistics use synthetic integration-test labels and are prototype diagnostics only.",
+  "small_sample_warning": "Only 10 products are available in the current smartphone pilot; statistical tests are exploratory."
+}

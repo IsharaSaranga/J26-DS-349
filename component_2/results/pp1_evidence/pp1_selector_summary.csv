@@ -1,0 +1,3 @@
+comparison,usefulness,representativeness,minority_recall,priority_minority,interpretation
+Full vs Predicted Usefulness Top-K,0.743 vs 0.859,0.767 vs 0.712,0.417 vs 0.278,1.00 vs 0.10,Trades usefulness for stronger representativeness and minority preservation.
+Full vs Proposed without Minority,0.743 vs 0.835,0.767 vs 0.772,0.417 vs 0.281,1.00 vs 0.20,Explicit minority preservation materially changes the selected evidence set.
