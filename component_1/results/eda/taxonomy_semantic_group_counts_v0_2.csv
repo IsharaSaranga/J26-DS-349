@@ -1,0 +1,5 @@
+domain,semantic_group,annotation_count
+laptop,COMMON,1595
+laptop,LAPTOP_SPECIFIC,395
+phone,COMMON,1434
+phone,PHONE_SPECIFIC,318
