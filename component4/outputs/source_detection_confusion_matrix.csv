@@ -1,0 +1,5 @@
+,Stable,Preference-sensitive,Evidence-sensitive,Mixed
+Stable,12,0,0,0
+Preference-sensitive,0,12,0,0
+Evidence-sensitive,0,0,12,0
+Mixed,0,0,0,12
