@@ -1,195 +1,195 @@
-domain,source_label,count,canonical_aspect,semantic_group,include,mapping_status
-phone,Overall#Overall,910,,,no,candidate
-phone,Screen#Clarity,22,display,COMMON,yes,candidate
-phone,Screen#Size,35,display,COMMON,yes,candidate
-phone,Product Configuration#Operating Memory,35,memory,COMMON,yes,candidate
-phone,Product Accessories#Cell Phone Film,46,,,review,pending
-phone,Product Accessories#Phone Cases,69,,,review,pending
-phone,Price#Price,150,price,COMMON,yes,candidate
-phone,Camera#General,145,camera,PHONE_SPECIFIC,yes,candidate
-phone,Battery/Longevity#Battery Life,105,battery,COMMON,yes,candidate
-phone,System#Software Compatibility,30,,,review,pending
-phone,Logistics#Lost and Damaged,256,,,no,candidate
-phone,Logistics#Speed,402,,,no,candidate
-phone,Logistics#general,29,,,no,candidate
-phone,Performance#General,54,performance,COMMON,yes,candidate
-phone,Battery/Longevity#General,84,,,review,pending
-phone,System#Application,32,,,review,pending
-phone,Buyer Attitude#Recommendable,193,,,no,candidate
-phone,Seller Service#Attitude,149,,,no,candidate
-phone,Appearance Design#Fuselage Size,53,design,COMMON,yes,candidate
-phone,Appearance Design#Weight,37,design,COMMON,yes,candidate
-phone,Shooting Functions#General,38,camera,PHONE_SPECIFIC,yes,candidate
-phone,Buyer Attitude#Repurchase and Churn Tendency,64,,,no,candidate
-phone,After-sales Service#Exchange/Warranty/Return,61,,,no,candidate
-phone,Screen#General,89,display,COMMON,yes,candidate
-phone,Performance#Running Speed,37,performance,COMMON,yes,candidate
-phone,Ease of Use#Easy to Use,84,,,review,pending
-phone,Product Packaging#General,96,,,no,candidate
-phone,Battery/Longevity#Power Consumption Speed,32,,,review,pending
-phone,Product Accessories#Headphones,40,,,review,pending
-phone,Branding/Marketing#Promotional Giveaways,48,,,no,candidate
-phone,Price#Value for Money,88,price,COMMON,yes,candidate
-phone,Appearance Design#Aesthetics General,36,design,COMMON,yes,candidate
-phone,System#Operation Smoothness,16,performance,COMMON,yes,candidate
-phone,Audio/Sound#Tone quality,30,,,review,pending
-phone,Smart Connect#Bluetooth Connection,17,,,review,pending
-phone,Product Quality#Genuine Product,38,,,review,pending
-phone,Battery/Longevity#Battery Capacity,23,battery,COMMON,yes,candidate
-phone,Appearance Design#Grip Feeling,14,design,COMMON,yes,candidate
-phone,Battery/Longevity#Charging Speed,55,charging,COMMON,review,candidate
-phone,System#System General,14,,,review,pending
-phone,Product Configuration#Memory,56,memory,COMMON,yes,candidate
-phone,Product Quality#General,123,,,review,pending
-phone,Signal#Signal General,24,signal_network,PHONE_SPECIFIC,yes,candidate
-phone,Performance#Heat Generation,20,performance,COMMON,yes,candidate
-phone,Seller Service#Timeliness of Seller Service,103,,,no,candidate
-phone,Buyer Attitude#Shopping Experiences,100,,,no,candidate
-phone,Battery/Longevity#Standby Time,30,,,review,pending
-phone,Product Packaging#Packaging Materials,54,,,no,candidate
-phone,Ease of Use#Audience Groups,49,,,review,pending
-phone,Security#Screen Unlock,19,biometrics_security,PHONE_SPECIFIC,yes,candidate
-phone,Seller Service#Shipping,25,,,no,candidate
-phone,Logistics#Shipping Fee,1,,,no,candidate
-phone,Battery/Longevity#Charging Method,11,charging,COMMON,review,candidate
-phone,Buyer Attitude#Loyalty,24,,,no,candidate
-phone,Product Packaging#Packaging Grade,9,,,no,candidate
-phone,System#Lock Screen Design,57,,,review,pending
-phone,Audio/Sound#Volume and Speaker,43,,,review,pending
-phone,Signal#Signal of Mobile Network,59,signal_network,PHONE_SPECIFIC,yes,candidate
-phone,Product Quality#Fall Protection,11,,,review,pending
-phone,Signal#Wifi Signal,9,signal_network,PHONE_SPECIFIC,yes,candidate
-phone,Product Accessories#Charger,36,,,review,pending
-phone,Key Design#General,11,,,review,pending
-phone,Product Configuration#CPU,8,cpu,COMMON,yes,candidate
-phone,Appearance Design#Color,32,design,COMMON,yes,candidate
-phone,Product Quality#Cleanliness,2,,,review,pending
-phone,Appearance Design#Thickness,10,design,COMMON,yes,candidate
-phone,Appearance Design#Exterior Design Material,6,design,COMMON,yes,candidate
-phone,Seller Service#Seller Expertise,3,,,no,candidate
-phone,Product Packaging#Completeness of Accessories,11,,,no,candidate
-phone,Shooting Functions#Pixel,9,camera,PHONE_SPECIFIC,yes,candidate
-phone,Camera#Rear Camera,7,camera,PHONE_SPECIFIC,yes,candidate
-phone,Product Quality#Dustproof,6,,,review,pending
-phone,Appearance Design#Workmanship and Texture,7,design,COMMON,yes,candidate
-phone,Product Accessories#Charging Cable,19,,,review,pending
-phone,Product Quality#Water Resistant,11,,,review,pending
-phone,Buyer Attitude#Shopping Willingness,2,,,no,candidate
-phone,System#UI Interface Aesthetics,9,,,review,pending
-phone,Camera#Front Camera,9,camera,PHONE_SPECIFIC,yes,candidate
-phone,System#System Upgrade,9,,,review,pending
-phone,Seller Service#Inventory,5,,,no,candidate
-phone,Camera#Fill light,2,camera,PHONE_SPECIFIC,yes,candidate
-phone,Signal#Call Quality,2,signal_network,PHONE_SPECIFIC,yes,candidate
-phone,System#NFC,3,nfc,PHONE_SPECIFIC,yes,candidate
-phone,Intelligent Assistant#Intelligent Assistant General,3,,,review,pending
-phone,Product Packaging#Instruction Manual,4,,,no,candidate
-phone,Smart Connect#Positioning and GPS,1,gps,PHONE_SPECIFIC,yes,candidate
-laptop,SHIPPING#OPERATION_PERFORMANCE,6,,,no,candidate
-laptop,LAPTOP#GENERAL,624,,,no,candidate
-laptop,LAPTOP#OPERATION_PERFORMANCE,319,performance,COMMON,yes,candidate
-laptop,LAPTOP#QUALITY,104,,,review,pending
-laptop,DISPLAY#QUALITY,38,display,COMMON,yes,candidate
-laptop,Out_Of_Scope#GENERAL,3,,,no,candidate
-laptop,DISPLAY#OPERATION_PERFORMANCE,65,display,COMMON,yes,candidate
-laptop,KEYBOARD#QUALITY,19,keyboard,LAPTOP_SPECIFIC,yes,candidate
-laptop,PORTS#USABILITY,4,ports,LAPTOP_SPECIFIC,yes,candidate
-laptop,LAPTOP#PORTABILITY,32,,,review,pending
-laptop,LAPTOP#USABILITY,67,,,review,pending
-laptop,LAPTOP#DESIGN_FEATURES,243,design,COMMON,yes,candidate
-laptop,KEYBOARD#OPERATION_PERFORMANCE,40,keyboard,LAPTOP_SPECIFIC,yes,candidate
-laptop,MEMORY#GENERAL,15,memory,COMMON,yes,candidate
-laptop,MULTIMEDIA_DEVICES#GENERAL,24,,,review,pending
-laptop,POWER_SUPPLY#OPERATION_PERFORMANCE,27,charging,COMMON,review,candidate
-laptop,LAPTOP#PRICE,116,price,COMMON,yes,candidate
-laptop,HARDWARE#GENERAL,34,,,review,pending
-laptop,CPU#PRICE,2,cpu,COMMON,yes,candidate
-laptop,KEYBOARD#PRICE,1,keyboard,LAPTOP_SPECIFIC,yes,candidate
-laptop,DISPLAY#GENERAL,74,display,COMMON,yes,candidate
-laptop,FANS&COOLING#OPERATION_PERFORMANCE,7,fans_cooling,LAPTOP_SPECIFIC,yes,candidate
-laptop,Out_Of_Scope#OPERATION_PERFORMANCE,2,,,no,candidate
-laptop,BATTERY#QUALITY,17,battery,COMMON,yes,candidate
-laptop,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,52,,,review,pending
-laptop,GRAPHICS#GENERAL,11,,,review,pending
-laptop,BATTERY#OPERATION_PERFORMANCE,76,battery,COMMON,yes,candidate
-laptop,OS#OPERATION_PERFORMANCE,59,,,review,pending
-laptop,SOFTWARE#GENERAL,29,,,review,pending
-laptop,SUPPORT#GENERAL,59,,,no,candidate
-laptop,KEYBOARD#GENERAL,75,keyboard,LAPTOP_SPECIFIC,yes,candidate
-laptop,SOFTWARE#QUALITY,3,,,review,pending
-laptop,POWER_SUPPLY#QUALITY,6,charging,COMMON,review,candidate
-laptop,HARDWARE#OPERATION_PERFORMANCE,30,,,review,pending
-laptop,CPU#OPERATION_PERFORMANCE,30,cpu,COMMON,yes,candidate
-laptop,LAPTOP#MISCELLANEOUS,8,,,review,pending
-laptop,MULTIMEDIA_DEVICES#DESIGN_FEATURES,5,,,review,pending
-laptop,OS#DESIGN_FEATURES,14,,,review,pending
-laptop,SUPPORT#QUALITY,16,,,no,candidate
-laptop,KEYBOARD#DESIGN_FEATURES,66,keyboard,LAPTOP_SPECIFIC,yes,candidate
-laptop,BATTERY#GENERAL,35,battery,COMMON,yes,candidate
-laptop,Out_Of_Scope#USABILITY,1,,,no,candidate
-laptop,SHIPPING#QUALITY,9,,,no,candidate
-laptop,SOFTWARE#OPERATION_PERFORMANCE,60,,,review,pending
-laptop,MOTHERBOARD#QUALITY,2,motherboard,LAPTOP_SPECIFIC,yes,candidate
-laptop,OS#GENERAL,21,,,review,pending
-laptop,HARD_DISC#OPERATION_PERFORMANCE,16,storage,LAPTOP_SPECIFIC,yes,candidate
-laptop,MEMORY#OPERATION_PERFORMANCE,10,memory,COMMON,yes,candidate
-laptop,COMPANY#GENERAL,32,,,no,candidate
-laptop,WARRANTY#GENERAL,8,,,no,candidate
-laptop,MEMORY#DESIGN_FEATURES,6,memory,COMMON,yes,candidate
-laptop,SOFTWARE#USABILITY,16,,,review,pending
-laptop,CPU#GENERAL,10,cpu,COMMON,yes,candidate
-laptop,HARD_DISC#GENERAL,11,storage,LAPTOP_SPECIFIC,yes,candidate
-laptop,DISPLAY#DESIGN_FEATURES,67,display,COMMON,yes,candidate
-laptop,HARDWARE#DESIGN_FEATURES,11,,,review,pending
-laptop,PORTS#CONNECTIVITY,5,ports,LAPTOP_SPECIFIC,yes,candidate
-laptop,POWER_SUPPLY#DESIGN_FEATURES,5,charging,COMMON,review,candidate
-laptop,PORTS#DESIGN_FEATURES,7,ports,LAPTOP_SPECIFIC,yes,candidate
-laptop,SHIPPING#GENERAL,9,,,no,candidate
-laptop,HARD_DISC#DESIGN_FEATURES,6,storage,LAPTOP_SPECIFIC,yes,candidate
-laptop,COMPANY#OPERATION_PERFORMANCE,2,,,no,candidate
-laptop,PORTS#GENERAL,14,ports,LAPTOP_SPECIFIC,yes,candidate
-laptop,SOFTWARE#DESIGN_FEATURES,14,,,review,pending
-laptop,SOFTWARE#PRICE,1,,,review,pending
-laptop,MULTIMEDIA_DEVICES#QUALITY,7,,,review,pending
-laptop,DISPLAY#USABILITY,8,display,COMMON,yes,candidate
-laptop,HARD_DISC#PRICE,4,storage,LAPTOP_SPECIFIC,yes,candidate
-laptop,GRAPHICS#OPERATION_PERFORMANCE,5,,,review,pending
-laptop,POWER_SUPPLY#GENERAL,5,charging,COMMON,review,candidate
-laptop,HARD_DISC#QUALITY,2,storage,LAPTOP_SPECIFIC,yes,candidate
-laptop,SUPPORT#OPERATION_PERFORMANCE,5,,,no,candidate
-laptop,GRAPHICS#USABILITY,2,,,review,pending
-laptop,LAPTOP#CONNECTIVITY,9,,,review,pending
-laptop,PORTS#OPERATION_PERFORMANCE,19,ports,LAPTOP_SPECIFIC,yes,candidate
-laptop,FANS&COOLING#GENERAL,4,fans_cooling,LAPTOP_SPECIFIC,yes,candidate
-laptop,CPU#DESIGN_FEATURES,1,cpu,COMMON,yes,candidate
-laptop,OS#USABILITY,11,,,review,pending
-laptop,SOFTWARE#PORTABILITY,1,,,review,pending
-laptop,KEYBOARD#USABILITY,17,keyboard,LAPTOP_SPECIFIC,yes,candidate
-laptop,HARDWARE#QUALITY,9,,,review,pending
-laptop,HARDWARE#USABILITY,1,,,review,pending
-laptop,BATTERY#DESIGN_FEATURES,2,battery,COMMON,yes,candidate
-laptop,MOUSE#GENERAL,2,mouse,LAPTOP_SPECIFIC,review,candidate
-laptop,PORTS#QUALITY,6,ports,LAPTOP_SPECIFIC,yes,candidate
-laptop,DISPLAY#PRICE,2,display,COMMON,yes,candidate
-laptop,MEMORY#USABILITY,3,memory,COMMON,yes,candidate
-laptop,HARD_DISC#USABILITY,2,storage,LAPTOP_SPECIFIC,yes,candidate
-laptop,OPTICAL_DRIVES#USABILITY,2,optical_drive,LAPTOP_SPECIFIC,yes,candidate
-laptop,COMPANY#QUALITY,3,,,no,candidate
-laptop,MEMORY#QUALITY,1,memory,COMMON,yes,candidate
-laptop,PORTS#PORTABILITY,1,ports,LAPTOP_SPECIFIC,yes,candidate
-laptop,OS#MISCELLANEOUS,1,,,review,pending
-laptop,SUPPORT#PRICE,1,,,no,candidate
-laptop,GRAPHICS#DESIGN_FEATURES,2,,,review,pending
-laptop,KEYBOARD#PORTABILITY,2,keyboard,LAPTOP_SPECIFIC,yes,candidate
-laptop,OS#PRICE,1,,,review,pending
-laptop,OPTICAL_DRIVES#GENERAL,2,optical_drive,LAPTOP_SPECIFIC,yes,candidate
-laptop,HARD_DISC#MISCELLANEOUS,1,storage,LAPTOP_SPECIFIC,yes,candidate
-laptop,MULTIMEDIA_DEVICES#CONNECTIVITY,1,,,review,pending
-laptop,MOUSE#DESIGN_FEATURES,2,mouse,LAPTOP_SPECIFIC,review,candidate
-laptop,COMPANY#PRICE,1,,,no,candidate
-laptop,COMPANY#DESIGN_FEATURES,1,,,no,candidate
-laptop,FANS&COOLING#QUALITY,2,fans_cooling,LAPTOP_SPECIFIC,yes,candidate
-laptop,MOUSE#USABILITY,1,mouse,LAPTOP_SPECIFIC,review,candidate
-laptop,Out_Of_Scope#DESIGN_FEATURES,1,,,no,candidate
-laptop,KEYBOARD#MISCELLANEOUS,1,keyboard,LAPTOP_SPECIFIC,yes,candidate
-laptop,OS#QUALITY,1,,,review,pending
+domain,source_label,canonical_aspect,semantic_group,include,mapping_status,notes
+phone,After-sales Service#Exchange/Warranty/Return,,,,pending,
+phone,Appearance Design#Aesthetics General,,,,pending,
+phone,Appearance Design#Color,,,,pending,
+phone,Appearance Design#Exterior Design Material,,,,pending,
+phone,Appearance Design#Fuselage Size,,,,pending,
+phone,Appearance Design#Grip Feeling,,,,pending,
+phone,Appearance Design#Thickness,,,,pending,
+phone,Appearance Design#Weight,,,,pending,
+phone,Appearance Design#Workmanship and Texture,,,,pending,
+phone,Audio/Sound#Tone quality,,,,pending,
+phone,Audio/Sound#Volume and Speaker,,,,pending,
+phone,Battery/Longevity#Battery Capacity,,,,pending,
+phone,Battery/Longevity#Battery Life,,,,pending,
+phone,Battery/Longevity#Charging Method,,,,pending,
+phone,Battery/Longevity#Charging Speed,,,,pending,
+phone,Battery/Longevity#General,,,,pending,
+phone,Battery/Longevity#Power Consumption Speed,,,,pending,
+phone,Battery/Longevity#Standby Time,,,,pending,
+phone,Branding/Marketing#Promotional Giveaways,,,,pending,
+phone,Buyer Attitude#Loyalty,,,,pending,
+phone,Buyer Attitude#Recommendable,,,,pending,
+phone,Buyer Attitude#Repurchase and Churn Tendency,,,,pending,
+phone,Buyer Attitude#Shopping Experiences,,,,pending,
+phone,Buyer Attitude#Shopping Willingness,,,,pending,
+phone,Camera#Fill light,,,,pending,
+phone,Camera#Front Camera,,,,pending,
+phone,Camera#General,,,,pending,
+phone,Camera#Rear Camera,,,,pending,
+phone,Ease of Use#Audience Groups,,,,pending,
+phone,Ease of Use#Easy to Use,,,,pending,
+phone,Intelligent Assistant#Intelligent Assistant General,,,,pending,
+phone,Key Design#General,,,,pending,
+phone,Logistics#Lost and Damaged,,,,pending,
+phone,Logistics#Shipping Fee,,,,pending,
+phone,Logistics#Speed,,,,pending,
+phone,Logistics#general,,,,pending,
+phone,Overall#Overall,,,,pending,
+phone,Performance#General,,,,pending,
+phone,Performance#Heat Generation,,,,pending,
+phone,Performance#Running Speed,,,,pending,
+phone,Price#Price,,,,pending,
+phone,Price#Value for Money,,,,pending,
+phone,Product Accessories#Cell Phone Film,,,,pending,
+phone,Product Accessories#Charger,,,,pending,
+phone,Product Accessories#Charging Cable,,,,pending,
+phone,Product Accessories#Headphones,,,,pending,
+phone,Product Accessories#Phone Cases,,,,pending,
+phone,Product Configuration#CPU,,,,pending,
+phone,Product Configuration#Memory,,,,pending,
+phone,Product Configuration#Operating Memory,,,,pending,
+phone,Product Packaging#Completeness of Accessories,,,,pending,
+phone,Product Packaging#General,,,,pending,
+phone,Product Packaging#Instruction Manual,,,,pending,
+phone,Product Packaging#Packaging Grade,,,,pending,
+phone,Product Packaging#Packaging Materials,,,,pending,
+phone,Product Quality#Cleanliness,,,,pending,
+phone,Product Quality#Dustproof,,,,pending,
+phone,Product Quality#Fall Protection,,,,pending,
+phone,Product Quality#General,,,,pending,
+phone,Product Quality#Genuine Product,,,,pending,
+phone,Product Quality#Water Resistant,,,,pending,
+phone,Screen#Clarity,,,,pending,
+phone,Screen#General,,,,pending,
+phone,Screen#Size,,,,pending,
+phone,Security#Screen Unlock,,,,pending,
+phone,Seller Service#Attitude,,,,pending,
+phone,Seller Service#Inventory,,,,pending,
+phone,Seller Service#Seller Expertise,,,,pending,
+phone,Seller Service#Shipping,,,,pending,
+phone,Seller Service#Timeliness of Seller Service,,,,pending,
+phone,Shooting Functions#General,,,,pending,
+phone,Shooting Functions#Pixel,,,,pending,
+phone,Signal#Call Quality,,,,pending,
+phone,Signal#Signal General,,,,pending,
+phone,Signal#Signal of Mobile Network,,,,pending,
+phone,Signal#Wifi Signal,,,,pending,
+phone,Smart Connect#Bluetooth Connection,,,,pending,
+phone,Smart Connect#Positioning and GPS,,,,pending,
+phone,System#Application,,,,pending,
+phone,System#Lock Screen Design,,,,pending,
+phone,System#NFC,,,,pending,
+phone,System#Operation Smoothness,,,,pending,
+phone,System#Software Compatibility,,,,pending,
+phone,System#System General,,,,pending,
+phone,System#System Upgrade,,,,pending,
+phone,System#UI Interface Aesthetics,,,,pending,
+laptop,BATTERY#DESIGN_FEATURES,,,,pending,
+laptop,BATTERY#GENERAL,,,,pending,
+laptop,BATTERY#OPERATION_PERFORMANCE,,,,pending,
+laptop,BATTERY#QUALITY,,,,pending,
+laptop,COMPANY#DESIGN_FEATURES,,,,pending,
+laptop,COMPANY#GENERAL,,,,pending,
+laptop,COMPANY#OPERATION_PERFORMANCE,,,,pending,
+laptop,COMPANY#PRICE,,,,pending,
+laptop,COMPANY#QUALITY,,,,pending,
+laptop,CPU#DESIGN_FEATURES,,,,pending,
+laptop,CPU#GENERAL,,,,pending,
+laptop,CPU#OPERATION_PERFORMANCE,,,,pending,
+laptop,CPU#PRICE,,,,pending,
+laptop,DISPLAY#DESIGN_FEATURES,,,,pending,
+laptop,DISPLAY#GENERAL,,,,pending,
+laptop,DISPLAY#OPERATION_PERFORMANCE,,,,pending,
+laptop,DISPLAY#PRICE,,,,pending,
+laptop,DISPLAY#QUALITY,,,,pending,
+laptop,DISPLAY#USABILITY,,,,pending,
+laptop,FANS&COOLING#GENERAL,,,,pending,
+laptop,FANS&COOLING#OPERATION_PERFORMANCE,,,,pending,
+laptop,FANS&COOLING#QUALITY,,,,pending,
+laptop,GRAPHICS#DESIGN_FEATURES,,,,pending,
+laptop,GRAPHICS#GENERAL,,,,pending,
+laptop,GRAPHICS#OPERATION_PERFORMANCE,,,,pending,
+laptop,GRAPHICS#USABILITY,,,,pending,
+laptop,HARDWARE#DESIGN_FEATURES,,,,pending,
+laptop,HARDWARE#GENERAL,,,,pending,
+laptop,HARDWARE#OPERATION_PERFORMANCE,,,,pending,
+laptop,HARDWARE#QUALITY,,,,pending,
+laptop,HARDWARE#USABILITY,,,,pending,
+laptop,HARD_DISC#DESIGN_FEATURES,,,,pending,
+laptop,HARD_DISC#GENERAL,,,,pending,
+laptop,HARD_DISC#MISCELLANEOUS,,,,pending,
+laptop,HARD_DISC#OPERATION_PERFORMANCE,,,,pending,
+laptop,HARD_DISC#PRICE,,,,pending,
+laptop,HARD_DISC#QUALITY,,,,pending,
+laptop,HARD_DISC#USABILITY,,,,pending,
+laptop,KEYBOARD#DESIGN_FEATURES,,,,pending,
+laptop,KEYBOARD#GENERAL,,,,pending,
+laptop,KEYBOARD#MISCELLANEOUS,,,,pending,
+laptop,KEYBOARD#OPERATION_PERFORMANCE,,,,pending,
+laptop,KEYBOARD#PORTABILITY,,,,pending,
+laptop,KEYBOARD#PRICE,,,,pending,
+laptop,KEYBOARD#QUALITY,,,,pending,
+laptop,KEYBOARD#USABILITY,,,,pending,
+laptop,LAPTOP#CONNECTIVITY,,,,pending,
+laptop,LAPTOP#DESIGN_FEATURES,,,,pending,
+laptop,LAPTOP#GENERAL,,,,pending,
+laptop,LAPTOP#MISCELLANEOUS,,,,pending,
+laptop,LAPTOP#OPERATION_PERFORMANCE,,,,pending,
+laptop,LAPTOP#PORTABILITY,,,,pending,
+laptop,LAPTOP#PRICE,,,,pending,
+laptop,LAPTOP#QUALITY,,,,pending,
+laptop,LAPTOP#USABILITY,,,,pending,
+laptop,MEMORY#DESIGN_FEATURES,,,,pending,
+laptop,MEMORY#GENERAL,,,,pending,
+laptop,MEMORY#OPERATION_PERFORMANCE,,,,pending,
+laptop,MEMORY#QUALITY,,,,pending,
+laptop,MEMORY#USABILITY,,,,pending,
+laptop,MOTHERBOARD#QUALITY,,,,pending,
+laptop,MOUSE#DESIGN_FEATURES,,,,pending,
+laptop,MOUSE#GENERAL,,,,pending,
+laptop,MOUSE#USABILITY,,,,pending,
+laptop,MULTIMEDIA_DEVICES#CONNECTIVITY,,,,pending,
+laptop,MULTIMEDIA_DEVICES#DESIGN_FEATURES,,,,pending,
+laptop,MULTIMEDIA_DEVICES#GENERAL,,,,pending,
+laptop,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,,,,pending,
+laptop,MULTIMEDIA_DEVICES#QUALITY,,,,pending,
+laptop,OPTICAL_DRIVES#GENERAL,,,,pending,
+laptop,OPTICAL_DRIVES#USABILITY,,,,pending,
+laptop,OS#DESIGN_FEATURES,,,,pending,
+laptop,OS#GENERAL,,,,pending,
+laptop,OS#MISCELLANEOUS,,,,pending,
+laptop,OS#OPERATION_PERFORMANCE,,,,pending,
+laptop,OS#PRICE,,,,pending,
+laptop,OS#QUALITY,,,,pending,
+laptop,OS#USABILITY,,,,pending,
+laptop,Out_Of_Scope#DESIGN_FEATURES,,,,pending,
+laptop,Out_Of_Scope#GENERAL,,,,pending,
+laptop,Out_Of_Scope#OPERATION_PERFORMANCE,,,,pending,
+laptop,Out_Of_Scope#USABILITY,,,,pending,
+laptop,PORTS#CONNECTIVITY,,,,pending,
+laptop,PORTS#DESIGN_FEATURES,,,,pending,
+laptop,PORTS#GENERAL,,,,pending,
+laptop,PORTS#OPERATION_PERFORMANCE,,,,pending,
+laptop,PORTS#PORTABILITY,,,,pending,
+laptop,PORTS#QUALITY,,,,pending,
+laptop,PORTS#USABILITY,,,,pending,
+laptop,POWER_SUPPLY#DESIGN_FEATURES,,,,pending,
+laptop,POWER_SUPPLY#GENERAL,,,,pending,
+laptop,POWER_SUPPLY#OPERATION_PERFORMANCE,,,,pending,
+laptop,POWER_SUPPLY#QUALITY,,,,pending,
+laptop,SHIPPING#GENERAL,,,,pending,
+laptop,SHIPPING#OPERATION_PERFORMANCE,,,,pending,
+laptop,SHIPPING#QUALITY,,,,pending,
+laptop,SOFTWARE#DESIGN_FEATURES,,,,pending,
+laptop,SOFTWARE#GENERAL,,,,pending,
+laptop,SOFTWARE#OPERATION_PERFORMANCE,,,,pending,
+laptop,SOFTWARE#PORTABILITY,,,,pending,
+laptop,SOFTWARE#PRICE,,,,pending,
+laptop,SOFTWARE#QUALITY,,,,pending,
+laptop,SOFTWARE#USABILITY,,,,pending,
+laptop,SUPPORT#GENERAL,,,,pending,
+laptop,SUPPORT#OPERATION_PERFORMANCE,,,,pending,
+laptop,SUPPORT#PRICE,,,,pending,
+laptop,SUPPORT#QUALITY,,,,pending,
+laptop,WARRANTY#GENERAL,,,,pending,
