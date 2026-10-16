@@ -1,0 +1,12 @@
+check,passed
+all_raw_files_exist,True
+all_rows_parsed,True
+no_invalid_triplets,True
+sentiment_space_valid,True
+no_duplicate_taxonomy_mappings,True
+no_missing_canonical_aspects,True
+no_missing_semantic_groups,True
+no_unresolved_taxonomy_labels,True
+no_unmapped_annotations,True
+all_multilabel_reviews_have_aspects,True
+required_outputs_saved,True

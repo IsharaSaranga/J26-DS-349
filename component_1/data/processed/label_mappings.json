@@ -1,0 +1,41 @@
+{
+  "aspect_to_id": {
+    "battery": 0,
+    "biometrics_security": 1,
+    "call_quality": 2,
+    "camera": 3,
+    "charging_power": 4,
+    "connectivity": 5,
+    "cpu": 6,
+    "design": 7,
+    "display": 8,
+    "durability": 9,
+    "fans_cooling": 10,
+    "gps": 11,
+    "graphics": 12,
+    "keyboard": 13,
+    "memory": 14,
+    "mobile_network": 15,
+    "motherboard": 16,
+    "mouse": 17,
+    "nfc": 18,
+    "optical_drive": 19,
+    "performance": 20,
+    "portability": 21,
+    "ports": 22,
+    "price": 23,
+    "software_system": 24,
+    "storage": 25,
+    "usability": 26
+  },
+  "sentiment_to_id": {
+    "negative": 0,
+    "neutral": 1,
+    "positive": 2
+  },
+  "semantic_group_to_id": {
+    "COMMON": 0,
+    "PHONE_SPECIFIC": 1,
+    "LAPTOP_SPECIFIC": 2
+  }
+}

@@ -1,0 +1,7 @@
+domain,split,num_reviews,total_reviews,retained_reviews,retention_rate
+laptop,dev,326,326,218,66.87
+laptop,test,532,532,350,65.79
+laptop,train,1264,1264,840,66.46
+phone,dev,307,307,116,37.79
+phone,test,522,522,223,42.72
+phone,train,1276,1276,533,41.77
