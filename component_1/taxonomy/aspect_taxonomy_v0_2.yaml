@@ -1,0 +1,36 @@
+version: '0.2'
+status: operational
+groups:
+  COMMON:
+  - battery
+  - charging_power
+  - connectivity
+  - cpu
+  - design
+  - display
+  - durability
+  - memory
+  - performance
+  - price
+  - software_system
+  - usability
+  PHONE_SPECIFIC:
+  - biometrics_security
+  - call_quality
+  - camera
+  - gps
+  - mobile_network
+  - nfc
+  LAPTOP_SPECIFIC:
+  - fans_cooling
+  - graphics
+  - keyboard
+  - motherboard
+  - mouse
+  - optical_drive
+  - portability
+  - ports
+  - storage
+notes:
+  null_aspect_term: NULL aspect terms are retained as an observed annotation property
+    and are not automatically treated as implicit-aspect gold labels.

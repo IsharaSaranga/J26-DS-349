@@ -1,0 +1,4 @@
+mode,top1_stability
+Preference-only,0.914
+Evidence-only,0.478
+Joint,0.478

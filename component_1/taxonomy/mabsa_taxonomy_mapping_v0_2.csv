@@ -1,0 +1,195 @@
+domain,source_label,count,canonical_aspect,semantic_group,include,mapping_status
+laptop,LAPTOP#GENERAL,624,,,no,excluded
+laptop,LAPTOP#OPERATION_PERFORMANCE,319,performance,COMMON,yes,confirmed
+laptop,LAPTOP#DESIGN_FEATURES,243,design,COMMON,yes,confirmed
+laptop,LAPTOP#PRICE,116,price,COMMON,yes,confirmed
+laptop,LAPTOP#QUALITY,104,durability,COMMON,yes,confirmed
+laptop,BATTERY#OPERATION_PERFORMANCE,76,battery,COMMON,yes,confirmed
+laptop,KEYBOARD#GENERAL,75,keyboard,LAPTOP_SPECIFIC,yes,confirmed
+laptop,DISPLAY#GENERAL,74,display,COMMON,yes,confirmed
+laptop,DISPLAY#DESIGN_FEATURES,67,display,COMMON,yes,confirmed
+laptop,LAPTOP#USABILITY,67,usability,COMMON,yes,confirmed
+laptop,KEYBOARD#DESIGN_FEATURES,66,keyboard,LAPTOP_SPECIFIC,yes,confirmed
+laptop,DISPLAY#OPERATION_PERFORMANCE,65,display,COMMON,yes,confirmed
+laptop,SOFTWARE#OPERATION_PERFORMANCE,60,software_system,COMMON,yes,confirmed
+laptop,OS#OPERATION_PERFORMANCE,59,software_system,COMMON,yes,confirmed
+laptop,SUPPORT#GENERAL,59,,,no,excluded
+laptop,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,52,,,no,excluded
+laptop,KEYBOARD#OPERATION_PERFORMANCE,40,keyboard,LAPTOP_SPECIFIC,yes,confirmed
+laptop,DISPLAY#QUALITY,38,display,COMMON,yes,confirmed
+laptop,BATTERY#GENERAL,35,battery,COMMON,yes,confirmed
+laptop,HARDWARE#GENERAL,34,,,no,excluded
+laptop,COMPANY#GENERAL,32,,,no,excluded
+laptop,LAPTOP#PORTABILITY,32,portability,LAPTOP_SPECIFIC,yes,confirmed
+laptop,CPU#OPERATION_PERFORMANCE,30,cpu,COMMON,yes,confirmed
+laptop,HARDWARE#OPERATION_PERFORMANCE,30,,,no,excluded
+laptop,SOFTWARE#GENERAL,29,software_system,COMMON,yes,confirmed
+laptop,POWER_SUPPLY#OPERATION_PERFORMANCE,27,charging_power,COMMON,yes,confirmed
+laptop,MULTIMEDIA_DEVICES#GENERAL,24,,,no,excluded
+laptop,OS#GENERAL,21,software_system,COMMON,yes,confirmed
+laptop,KEYBOARD#QUALITY,19,keyboard,LAPTOP_SPECIFIC,yes,confirmed
+laptop,PORTS#OPERATION_PERFORMANCE,19,ports,LAPTOP_SPECIFIC,yes,confirmed
+laptop,BATTERY#QUALITY,17,battery,COMMON,yes,confirmed
+laptop,KEYBOARD#USABILITY,17,keyboard,LAPTOP_SPECIFIC,yes,confirmed
+laptop,HARD_DISC#OPERATION_PERFORMANCE,16,storage,LAPTOP_SPECIFIC,yes,confirmed
+laptop,SOFTWARE#USABILITY,16,software_system,COMMON,yes,confirmed
+laptop,SUPPORT#QUALITY,16,,,no,excluded
+laptop,MEMORY#GENERAL,15,memory,COMMON,yes,confirmed
+laptop,OS#DESIGN_FEATURES,14,software_system,COMMON,yes,confirmed
+laptop,PORTS#GENERAL,14,ports,LAPTOP_SPECIFIC,yes,confirmed
+laptop,SOFTWARE#DESIGN_FEATURES,14,software_system,COMMON,yes,confirmed
+laptop,GRAPHICS#GENERAL,11,graphics,LAPTOP_SPECIFIC,yes,confirmed
+laptop,HARDWARE#DESIGN_FEATURES,11,,,no,excluded
+laptop,HARD_DISC#GENERAL,11,storage,LAPTOP_SPECIFIC,yes,confirmed
+laptop,OS#USABILITY,11,software_system,COMMON,yes,confirmed
+laptop,CPU#GENERAL,10,cpu,COMMON,yes,confirmed
+laptop,MEMORY#OPERATION_PERFORMANCE,10,memory,COMMON,yes,confirmed
+laptop,HARDWARE#QUALITY,9,,,no,excluded
+laptop,LAPTOP#CONNECTIVITY,9,connectivity,COMMON,yes,confirmed
+laptop,SHIPPING#GENERAL,9,,,no,excluded
+laptop,SHIPPING#QUALITY,9,,,no,excluded
+laptop,DISPLAY#USABILITY,8,display,COMMON,yes,confirmed
+laptop,LAPTOP#MISCELLANEOUS,8,,,no,excluded
+laptop,WARRANTY#GENERAL,8,,,no,excluded
+laptop,FANS&COOLING#OPERATION_PERFORMANCE,7,fans_cooling,LAPTOP_SPECIFIC,yes,confirmed
+laptop,MULTIMEDIA_DEVICES#QUALITY,7,,,no,excluded
+laptop,PORTS#DESIGN_FEATURES,7,ports,LAPTOP_SPECIFIC,yes,confirmed
+laptop,HARD_DISC#DESIGN_FEATURES,6,storage,LAPTOP_SPECIFIC,yes,confirmed
+laptop,MEMORY#DESIGN_FEATURES,6,memory,COMMON,yes,confirmed
+laptop,PORTS#QUALITY,6,ports,LAPTOP_SPECIFIC,yes,confirmed
+laptop,POWER_SUPPLY#QUALITY,6,charging_power,COMMON,yes,confirmed
+laptop,SHIPPING#OPERATION_PERFORMANCE,6,,,no,excluded
+laptop,GRAPHICS#OPERATION_PERFORMANCE,5,graphics,LAPTOP_SPECIFIC,yes,confirmed
+laptop,MULTIMEDIA_DEVICES#DESIGN_FEATURES,5,,,no,excluded
+laptop,PORTS#CONNECTIVITY,5,ports,LAPTOP_SPECIFIC,yes,confirmed
+laptop,POWER_SUPPLY#DESIGN_FEATURES,5,charging_power,COMMON,yes,confirmed
+laptop,POWER_SUPPLY#GENERAL,5,charging_power,COMMON,yes,confirmed
+laptop,SUPPORT#OPERATION_PERFORMANCE,5,,,no,excluded
+laptop,FANS&COOLING#GENERAL,4,fans_cooling,LAPTOP_SPECIFIC,yes,confirmed
+laptop,HARD_DISC#PRICE,4,storage,LAPTOP_SPECIFIC,yes,confirmed
+laptop,PORTS#USABILITY,4,ports,LAPTOP_SPECIFIC,yes,confirmed
+laptop,COMPANY#QUALITY,3,,,no,excluded
+laptop,MEMORY#USABILITY,3,memory,COMMON,yes,confirmed
+laptop,Out_Of_Scope#GENERAL,3,,,no,excluded
+laptop,SOFTWARE#QUALITY,3,software_system,COMMON,yes,confirmed
+laptop,BATTERY#DESIGN_FEATURES,2,battery,COMMON,yes,confirmed
+laptop,COMPANY#OPERATION_PERFORMANCE,2,,,no,excluded
+laptop,CPU#PRICE,2,cpu,COMMON,yes,confirmed
+laptop,DISPLAY#PRICE,2,display,COMMON,yes,confirmed
+laptop,FANS&COOLING#QUALITY,2,fans_cooling,LAPTOP_SPECIFIC,yes,confirmed
+laptop,GRAPHICS#DESIGN_FEATURES,2,graphics,LAPTOP_SPECIFIC,yes,confirmed
+laptop,GRAPHICS#USABILITY,2,graphics,LAPTOP_SPECIFIC,yes,confirmed
+laptop,HARD_DISC#QUALITY,2,storage,LAPTOP_SPECIFIC,yes,confirmed
+laptop,HARD_DISC#USABILITY,2,storage,LAPTOP_SPECIFIC,yes,confirmed
+laptop,KEYBOARD#PORTABILITY,2,keyboard,LAPTOP_SPECIFIC,yes,confirmed
+laptop,MOTHERBOARD#QUALITY,2,motherboard,LAPTOP_SPECIFIC,yes,confirmed
+laptop,MOUSE#DESIGN_FEATURES,2,mouse,LAPTOP_SPECIFIC,yes,confirmed
+laptop,MOUSE#GENERAL,2,mouse,LAPTOP_SPECIFIC,yes,confirmed
+laptop,OPTICAL_DRIVES#GENERAL,2,optical_drive,LAPTOP_SPECIFIC,yes,confirmed
+laptop,OPTICAL_DRIVES#USABILITY,2,optical_drive,LAPTOP_SPECIFIC,yes,confirmed
+laptop,Out_Of_Scope#OPERATION_PERFORMANCE,2,,,no,excluded
+laptop,COMPANY#DESIGN_FEATURES,1,,,no,excluded
+laptop,COMPANY#PRICE,1,,,no,excluded
+laptop,CPU#DESIGN_FEATURES,1,cpu,COMMON,yes,confirmed
+laptop,HARDWARE#USABILITY,1,,,no,excluded
+laptop,HARD_DISC#MISCELLANEOUS,1,storage,LAPTOP_SPECIFIC,yes,confirmed
+laptop,KEYBOARD#MISCELLANEOUS,1,keyboard,LAPTOP_SPECIFIC,yes,confirmed
+laptop,KEYBOARD#PRICE,1,keyboard,LAPTOP_SPECIFIC,yes,confirmed
+laptop,MEMORY#QUALITY,1,memory,COMMON,yes,confirmed
+laptop,MOUSE#USABILITY,1,mouse,LAPTOP_SPECIFIC,yes,confirmed
+laptop,MULTIMEDIA_DEVICES#CONNECTIVITY,1,,,no,excluded
+laptop,OS#MISCELLANEOUS,1,software_system,COMMON,yes,confirmed
+laptop,OS#PRICE,1,software_system,COMMON,yes,confirmed
+laptop,OS#QUALITY,1,software_system,COMMON,yes,confirmed
+laptop,Out_Of_Scope#DESIGN_FEATURES,1,,,no,excluded
+laptop,Out_Of_Scope#USABILITY,1,,,no,excluded
+laptop,PORTS#PORTABILITY,1,ports,LAPTOP_SPECIFIC,yes,confirmed
+laptop,SOFTWARE#PORTABILITY,1,software_system,COMMON,yes,confirmed
+laptop,SOFTWARE#PRICE,1,software_system,COMMON,yes,confirmed
+laptop,SUPPORT#PRICE,1,,,no,excluded
+phone,Overall#Overall,910,,,no,excluded
+phone,Logistics#Speed,402,,,no,excluded
+phone,Logistics#Lost and Damaged,256,,,no,excluded
+phone,Buyer Attitude#Recommendable,193,,,no,excluded
+phone,Price#Price,150,price,COMMON,yes,confirmed
+phone,Seller Service#Attitude,149,,,no,excluded
+phone,Camera#General,145,camera,PHONE_SPECIFIC,yes,confirmed
+phone,Product Quality#General,123,,,no,excluded
+phone,Battery/Longevity#Battery Life,105,battery,COMMON,yes,confirmed
+phone,Seller Service#Timeliness of Seller Service,103,,,no,excluded
+phone,Buyer Attitude#Shopping Experiences,100,,,no,excluded
+phone,Product Packaging#General,96,,,no,excluded
+phone,Screen#General,89,display,COMMON,yes,confirmed
+phone,Price#Value for Money,88,price,COMMON,yes,confirmed
+phone,Battery/Longevity#General,84,battery,COMMON,yes,confirmed
+phone,Ease of Use#Easy to Use,84,usability,COMMON,yes,confirmed
+phone,Product Accessories#Phone Cases,69,,,no,excluded
+phone,Buyer Attitude#Repurchase and Churn Tendency,64,,,no,excluded
+phone,After-sales Service#Exchange/Warranty/Return,61,,,no,excluded
+phone,Signal#Signal of Mobile Network,59,mobile_network,PHONE_SPECIFIC,yes,confirmed
+phone,System#Lock Screen Design,57,software_system,COMMON,yes,confirmed
+phone,Product Configuration#Memory,56,memory,COMMON,yes,confirmed
+phone,Battery/Longevity#Charging Speed,55,charging_power,COMMON,yes,confirmed
+phone,Performance#General,54,performance,COMMON,yes,confirmed
+phone,Product Packaging#Packaging Materials,54,,,no,excluded
+phone,Appearance Design#Fuselage Size,53,design,COMMON,yes,confirmed
+phone,Ease of Use#Audience Groups,49,,,no,excluded
+phone,Branding/Marketing#Promotional Giveaways,48,,,no,excluded
+phone,Product Accessories#Cell Phone Film,46,,,no,excluded
+phone,Audio/Sound#Volume and Speaker,43,,,no,excluded
+phone,Product Accessories#Headphones,40,,,no,excluded
+phone,Product Quality#Genuine Product,38,,,no,excluded
+phone,Shooting Functions#General,38,camera,PHONE_SPECIFIC,yes,confirmed
+phone,Appearance Design#Weight,37,design,COMMON,yes,confirmed
+phone,Performance#Running Speed,37,performance,COMMON,yes,confirmed
+phone,Appearance Design#Aesthetics General,36,design,COMMON,yes,confirmed
+phone,Product Accessories#Charger,36,,,no,excluded
+phone,Product Configuration#Operating Memory,35,memory,COMMON,yes,confirmed
+phone,Screen#Size,35,display,COMMON,yes,confirmed
+phone,Appearance Design#Color,32,design,COMMON,yes,confirmed
+phone,Battery/Longevity#Power Consumption Speed,32,battery,COMMON,yes,confirmed
+phone,System#Application,32,software_system,COMMON,yes,confirmed
+phone,Audio/Sound#Tone quality,30,,,no,excluded
+phone,Battery/Longevity#Standby Time,30,battery,COMMON,yes,confirmed
+phone,System#Software Compatibility,30,software_system,COMMON,yes,confirmed
+phone,Logistics#general,29,,,no,excluded
+phone,Seller Service#Shipping,25,,,no,excluded
+phone,Buyer Attitude#Loyalty,24,,,no,excluded
+phone,Signal#Signal General,24,mobile_network,PHONE_SPECIFIC,yes,confirmed
+phone,Battery/Longevity#Battery Capacity,23,battery,COMMON,yes,confirmed
+phone,Screen#Clarity,22,display,COMMON,yes,confirmed
+phone,Performance#Heat Generation,20,performance,COMMON,yes,confirmed
+phone,Product Accessories#Charging Cable,19,,,no,excluded
+phone,Security#Screen Unlock,19,biometrics_security,PHONE_SPECIFIC,yes,confirmed
+phone,Smart Connect#Bluetooth Connection,17,connectivity,COMMON,yes,confirmed
+phone,System#Operation Smoothness,16,performance,COMMON,yes,confirmed
+phone,Appearance Design#Grip Feeling,14,design,COMMON,yes,confirmed
+phone,System#System General,14,software_system,COMMON,yes,confirmed
+phone,Battery/Longevity#Charging Method,11,charging_power,COMMON,yes,confirmed
+phone,Key Design#General,11,,,no,excluded
+phone,Product Packaging#Completeness of Accessories,11,,,no,excluded
+phone,Product Quality#Fall Protection,11,durability,COMMON,yes,confirmed
+phone,Product Quality#Water Resistant,11,durability,COMMON,yes,confirmed
+phone,Appearance Design#Thickness,10,design,COMMON,yes,confirmed
+phone,Camera#Front Camera,9,camera,PHONE_SPECIFIC,yes,confirmed
+phone,Product Packaging#Packaging Grade,9,,,no,excluded
+phone,Shooting Functions#Pixel,9,camera,PHONE_SPECIFIC,yes,confirmed
+phone,Signal#Wifi Signal,9,connectivity,COMMON,yes,confirmed
+phone,System#System Upgrade,9,software_system,COMMON,yes,confirmed
+phone,System#UI Interface Aesthetics,9,software_system,COMMON,yes,confirmed
+phone,Product Configuration#CPU,8,cpu,COMMON,yes,confirmed
+phone,Appearance Design#Workmanship and Texture,7,design,COMMON,yes,confirmed
+phone,Camera#Rear Camera,7,camera,PHONE_SPECIFIC,yes,confirmed
+phone,Appearance Design#Exterior Design Material,6,design,COMMON,yes,confirmed
+phone,Product Quality#Dustproof,6,durability,COMMON,yes,confirmed
+phone,Seller Service#Inventory,5,,,no,excluded
+phone,Product Packaging#Instruction Manual,4,,,no,excluded
+phone,Intelligent Assistant#Intelligent Assistant General,3,,,no,excluded
+phone,Seller Service#Seller Expertise,3,,,no,excluded
+phone,System#NFC,3,nfc,PHONE_SPECIFIC,yes,confirmed
+phone,Buyer Attitude#Shopping Willingness,2,,,no,excluded
+phone,Camera#Fill light,2,camera,PHONE_SPECIFIC,yes,confirmed
+phone,Product Quality#Cleanliness,2,,,no,excluded
+phone,Signal#Call Quality,2,call_quality,PHONE_SPECIFIC,yes,confirmed
+phone,Logistics#Shipping Fee,1,,,no,excluded
+phone,Smart Connect#Positioning and GPS,1,gps,PHONE_SPECIFIC,yes,confirmed

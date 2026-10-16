@@ -1,7 +1,0 @@
-domain,split,num_sentences
-laptop,dev,326
-laptop,test,532
-laptop,train,1264
-phone,dev,307
-phone,test,522
-phone,train,1276

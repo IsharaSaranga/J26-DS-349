@@ -1,0 +1,12 @@
+product_id,product_name,top1_count,top1_probability,mode
+P001,Phone A,6,0.012,Preference-only
+P002,Phone B,37,0.074,Preference-only
+P005,Phone E,457,0.914,Preference-only
+P001,Phone A,129,0.258,Evidence-only
+P002,Phone B,129,0.258,Evidence-only
+P004,Phone D,3,0.006,Evidence-only
+P005,Phone E,239,0.478,Evidence-only
+P001,Phone A,129,0.258,Joint
+P002,Phone B,128,0.256,Joint
+P004,Phone D,4,0.008,Joint
+P005,Phone E,239,0.478,Joint

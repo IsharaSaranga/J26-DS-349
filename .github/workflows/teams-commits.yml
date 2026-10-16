@@ -1,0 +1,68 @@
+name: Notify Teams of Commits
+
+on:
+  push:
+    branches:
+      - '**' # Triggers on all branches
+
+jobs:
+  notify-teams:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Post Commit Details to Teams
+        env:
+          TEAMS_WEBHOOK: ${{ secrets.TEAMS_WEBHOOK_URL }}
+          COMMIT_MSG: ${{ github.event.head_commit.message }}
+          COMMIT_AUTHOR: ${{ github.event.head_commit.author.name }}
+          COMMIT_URL: ${{ github.event.head_commit.url }}
+          REPO_NAME: ${{ github.repository }}
+          BRANCH_NAME: ${{ github.ref_name }}
+        run: |
+          # Format as an Adaptive Card payload
+          JSON_PAYLOAD=$(jq -n \
+            --arg repo "$REPO_NAME" \
+            --arg branch "$BRANCH_NAME" \
+            --arg author "$COMMIT_AUTHOR" \
+            --arg msg "$COMMIT_MSG" \
+            --arg url "$COMMIT_URL" \
+            '{
+              "type": "message",
+              "attachments": [
+                {
+                  "contentType": "application/vnd.microsoft.card.adaptive",
+                  "content": {
+                    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                    "type": "AdaptiveCard",
+                    "version": "1.4",
+                    "body": [
+                      {
+                        "type": "TextBlock",
+                        "size": "Medium",
+                        "weight": "Bolder",
+                        "text": "New Commit in \($repo)"
+                      },
+                      {
+                        "type": "FactSet",
+                        "facts": [
+                          {"title": "Branch:", "value": $branch},
+                          {"title": "Author:", "value": $author},
+                          {"title": "Message:", "value": $msg}
+                        ]
+                      }
+                    ],
+                    "actions": [
+                      {
+                        "type": "Action.OpenUrl",
+                        "title": "View Commit",
+                        "url": $url
+                      }
+                    ]
+                  }
+                }
+              ]
+            }')
+
+          curl -H "Content-Type: application/json" -d "$JSON_PAYLOAD" "$TEAMS_WEBHOOK"

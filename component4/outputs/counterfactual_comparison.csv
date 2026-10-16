@@ -1,0 +1,3 @@
+counterfactual,nominal_validity,L2_minimality,holdout_robust_validity
+Standard CF,1.0,0.04721800680706568,0.384
+Robust CF,1.0,0.22110171559370329,0.878
