@@ -43,6 +43,9 @@ from component4.src.explainability import (
 from component4.src.counterfactual import (
     find_standard_counterfactual,
 )
+from component4.src.input_validation import (
+    validate_all_inputs,
+)
 
 
 BASE_DIR = Path(__file__).resolve().parents[1]
@@ -95,6 +98,13 @@ def run_c4_pipeline(
         c2,
         c3
     ) = load_pipeline_inputs()
+    validate_all_inputs(
+    products,
+    preferences,
+    c1,
+    c2,
+    c3
+)
 
     max_budget = (
         preferences["max_budget"]
