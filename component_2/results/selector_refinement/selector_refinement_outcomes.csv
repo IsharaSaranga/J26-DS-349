@@ -1,0 +1,11 @@
+product,status,detail,relaxed_condition,initial_jsd,final_jsd,repair_swaps,selected_count,locked_minority_review_count,locked_review_retention,protected_minority_coverage
+B07GYY6VTD,feasible,fidelity_satisfied_after_repair,,0.38755493940225416,0.25824974304030995,1,5,2,1.0,1.0
+B07SDQ483V,feasible,fidelity_satisfied_without_repair,,0.26915185539468306,0.26915185539468306,0,5,2,1.0,1.0
+B08PP9FM9N,feasible,fidelity_satisfied_after_repair,,0.39336863461269217,0.23236454725585373,1,5,2,1.0,1.0
+B08XRDVWQ2,feasible,fidelity_satisfied_after_repair,,0.3666418577601746,0.245519394992021,1,5,2,1.0,1.0
+B09HFW8GRB,feasible,fidelity_satisfied_after_repair,,0.37662298568062097,0.2611421529759372,1,5,2,1.0,1.0
+B09JJCXC2M,feasible,fidelity_satisfied_after_repair,,0.40571259349624106,0.26928398321285213,1,5,2,1.0,1.0
+B09PPWVQSB,feasible,fidelity_satisfied_without_repair,,0.2896423209445445,0.2896423209445445,0,5,2,1.0,1.0
+B0B8PDLMMS,feasible,fidelity_satisfied_without_repair,,0.284041741286073,0.284041741286073,0,5,2,1.0,1.0
+B0BL9TKSBL,feasible,fidelity_satisfied_after_repair,,0.36951759096729414,0.24582517613810487,1,5,2,1.0,1.0
+B0BMWTL2S6,feasible,fidelity_satisfied_without_repair,,0.22545083699626173,0.22545083699626173,0,5,2,1.0,1.0

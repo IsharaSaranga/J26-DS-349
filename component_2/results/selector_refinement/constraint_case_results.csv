@@ -1,0 +1,11 @@
+case,observed_status,expected_status,passed,detail
+invalid_budget,failed,failed,True,Zero budget must fail.
+insufficient_candidates,failed,failed,True,Candidate count below k must fail.
+no_supported_minority,no_minority_required,no_minority_required,True,No supported minority evidence should use ordinary selection.
+minority_exists_reserve_missing,failed,failed,True,The system must not silently drop the minority requirement.
+duplicate_c1_detection,detected,detected,True,Duplicate C1 evidence must be detectable.
+missing_c1_id_detection,detected,detected,True,Missing C1 evidence must be visible.
+unknown_sentiment_detection,detected,detected,True,Unsupported labels must be rejected or reported.
+high_redundancy_detection,detected,detected,True,High semantic similarity should be visible.
+unsatisfied_fidelity_constraint,relaxed,relaxed,True,minority_reserve_preserved_but_fidelity_threshold_not_met
+minority_reserve_retention,preserved,preserved,True,Fidelity repair must retain minority-reserved reviews.

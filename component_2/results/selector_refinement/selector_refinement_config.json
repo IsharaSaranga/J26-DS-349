@@ -1,0 +1,38 @@
+{
+  "milestone": "09 - Fidelity-Aware Selector and Robust Constraint Handling",
+  "version": "2.0-minority-protected",
+  "random_seed": 42,
+  "review_budget_k": 5,
+  "fidelity_threshold": 0.35,
+  "fidelity_sensitivity_thresholds": [
+    0.2,
+    0.25,
+    0.3,
+    0.35,
+    0.4,
+    0.45
+  ],
+  "max_repair_swaps": 3,
+  "max_mean_utility_drop": 0.1,
+  "repair_utility_weights": {
+    "usefulness": 0.55,
+    "representativeness": 0.45
+  },
+  "minority_protection_policy": "Reviews recovered from the existing minority-reserve selection phase are locked during fidelity repair.",
+  "supported_minority_source": "group_level_qualification_table",
+  "minority_reserve_recovery_source": "selection_phase_audit",
+  "fidelity_metric": {
+    "name": "Jensen-Shannon Divergence",
+    "base": 2,
+    "returned_value": "squared Jensen-Shannon distance",
+    "lower_is_better": true,
+    "distribution_unit": "unique product-review-aspect-sentiment evidence"
+  },
+  "selector_ready_source": "results\\selector\\selector_ready_reviews.csv",
+  "baseline_source": "results\\selector_evaluation\\baseline_selected_reviews.csv",
+  "phase_audit_source": "results\\selector\\selected_evidence_prototype.csv",
+  "c1_source": "results\\integration\\c1_mock_aspect_sentiment.csv",
+  "minority_diagnostic_source": "results\\integration\\mock_supported_minority_groups.csv",
+  "c1_source_is_synthetic": true,
+  "research_boundary": "C1-derived results are prototype diagnostics when synthetic C1 evidence is used. The fidelity threshold is provisional."
+}

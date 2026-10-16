@@ -1,0 +1,11 @@
+product,supported_group_count,locked_minority_review_count,locked_minority_review_ids,protected_group_count,protected_groups,recovery_source
+B07GYY6VTD,11,2,"['082b67f5c74a45b8', '866978504b0f427f']",3,"['camera::negative', 'display::neutral', 'performance::neutral']",selection_phase_audit
+B07SDQ483V,11,2,"['03fe2e44ba4656ed', '8ea0f6f697d7447e']",3,"['battery::neutral', 'camera::negative', 'design::neutral']",selection_phase_audit
+B08PP9FM9N,9,2,"['1e56e51357613656', 'b5bd4bd905712bd4']",3,"['battery::negative', 'camera::negative', 'camera::neutral']",selection_phase_audit
+B08XRDVWQ2,12,2,"['2b39bf6748f95a3f', 'da37980592c022c6']",4,"['battery::negative', 'battery::neutral', 'camera::neutral', 'design::negative']",selection_phase_audit
+B09HFW8GRB,12,2,"['791cfcb377c79644', '7c4cc5fa963e85a2']",3,"['battery::negative', 'camera::negative', 'performance::neutral']",selection_phase_audit
+B09JJCXC2M,12,2,"['01c2860c638f70e1', '241d5c5722c38a8c']",2,"['battery::neutral', 'performance::neutral']",selection_phase_audit
+B09PPWVQSB,13,2,"['640ed5cdcfce8432', '80815f33689b51a0']",3,"['design::neutral', 'display::negative', 'price::neutral']",selection_phase_audit
+B0B8PDLMMS,9,2,"['31969113ff51dda3', 'a8db021ec28ce162']",2,"['camera::negative', 'performance::neutral']",selection_phase_audit
+B0BL9TKSBL,12,2,"['7749273cf3a0cc69', 'b31ee5f2f615eb79']",3,"['camera::neutral', 'display::neutral', 'performance::neutral']",selection_phase_audit
+B0BMWTL2S6,10,2,"['00e860b237548ac0', '7ed060fd651a1e33']",3,"['camera::negative', 'display::negative', 'performance::negative']",selection_phase_audit
