@@ -1,0 +1,24 @@
+{
+  "milestone": 12,
+  "stage": "A_semantic_integration",
+  "category": "laptop",
+  "review_count": 997,
+  "product_count": 10,
+  "semantic_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "normalized_embeddings": true,
+  "c1_data_source": "synthetic_c1_fixture",
+  "real_c1_integrated": false,
+  "minority_thresholds": {
+    "min_support": 3,
+    "min_confidence": 0.6,
+    "max_within_aspect_share": 0.4
+  },
+  "selector_parameters_for_stage_b": {
+    "budget": 5,
+    "maximum_protected_reviews": 2,
+    "fidelity_threshold": 0.35
+  },
+  "function_1_prediction_limitation": "Training predictions are in-sample; validation predictions were used for model selection; only test predictions are held out.",
+  "status": "prepared_for_smartphone_selector_adaptation"
+}
