@@ -1,0 +1,3 @@
+category,products,total_repair_swaps,mean_initial_jsd,mean_final_jsd,mean_locked_retention,feasible_products,relaxed_products,failed_products
+Laptop,10,3,0.28129761689698607,0.2430578010432864,1.0,10,0,0
+Smartphone,10,6,0.3367705356540839,0.25806717522366407,1.0,10,0,0

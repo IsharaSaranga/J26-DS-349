@@ -1,0 +1,7 @@
+item,smartphone,laptop,compatible
+Review budget,5,5,True
+Fidelity threshold,0.35,0.35,True
+C1 source,Synthetic integration fixture,Synthetic integration fixture,Limited
+Usefulness predictions,Includes in-sample scores,Includes in-sample scores,Limited
+Pilot reviews,896,997,Different sample sizes
+Pilot products,10,10,True
