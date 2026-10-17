@@ -1,0 +1,11 @@
+shard,status,candidate_rows
+raw_meta_Electronics/full-00000-of-00010.parquet,loaded_from_cache,3104
+raw_meta_Electronics/full-00001-of-00010.parquet,loaded_from_cache,3195
+raw_meta_Electronics/full-00002-of-00010.parquet,loaded_from_cache,3156
+raw_meta_Electronics/full-00003-of-00010.parquet,loaded_from_cache,3257
+raw_meta_Electronics/full-00004-of-00010.parquet,loaded_from_cache,3118
+raw_meta_Electronics/full-00005-of-00010.parquet,loaded_from_cache,3124
+raw_meta_Electronics/full-00006-of-00010.parquet,loaded_from_cache,3132
+raw_meta_Electronics/full-00007-of-00010.parquet,loaded_from_cache,3251
+raw_meta_Electronics/full-00008-of-00010.parquet,loaded_from_cache,3434
+raw_meta_Electronics/full-00009-of-00010.parquet,loaded_from_cache,4106
