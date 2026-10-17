@@ -1,0 +1,51 @@
+parent_asin,aspect,quarter,negative_rate,negative_rate_growth,growth_from_history,trend,latest_change_point,emerging_status,emerging_label,issue_risk,issue_confidence_dev,issue_confidence_label_dev
+B019BX7F86,thermal,2023Q3,0.5455,0.10109999999999997,0.44948,Declining,2023Q1,2,New / rapidly increasing issue,High,0.771335,Medium
+B01K1IO3QW,battery,2023Q3,0.1818,-0.06820000000000001,0.10574,Stable,,0,No meaningful issue,Low,0.765485,Medium
+B01K1IO3QW,thermal,2023Q3,1.0,0.4286,0.75861,Declining,2022Q4,2,New / rapidly increasing issue,High,0.7631642857142857,Medium
+B01MPXRXR0,battery,2023Q3,0.8333,0.5833,0.70319,Declining,2022Q4,2,New / rapidly increasing issue,High,0.7869805882352942,Medium
+B01K1IO3QW,keyboard,2023Q3,0.0,0.0,-0.02111,Stable,,0,No meaningful issue,Low,0.6473692857142858,Medium
+B01K1IO3QW,display,2023Q3,0.0909,0.013999999999999999,0.016670000000000004,Stable,,0,No meaningful issue,Low,0.774845,Medium
+B00FFJ0HUE,battery,2023Q3,0.0,0.0,-0.05,Stable,,0,No meaningful issue,Low,0.5533711111111111,Low
+B00FFJ0HUE,display,2023Q3,0.0,0.0,-0.1,Stable,,0,No meaningful issue,Low,0.5574011111111111,Low
+B0C2ZMJW53,thermal,2023Q3,0.0,0.0,-0.01602,Stable,,0,No meaningful issue,Low,0.6375542857142857,Medium
+B01MPXRXR0,performance,2023Q3,0.0714,0.0714,0.05890000000000001,Stable,,0,No meaningful issue,Low,0.6958905263157895,Medium
+B01MPXRXR0,display,2023Q3,0.0,0.0,-0.10305,Stable,,0,No meaningful issue,Low,0.6958255263157895,Medium
+B01MPXRXR0,camera,2023Q3,0.0,-0.4444,-0.16024,Stable,,0,No meaningful issue,Low,0.6408261538461539,Medium
+B01K1IO3QW,performance,2023Q3,0.0,0.0,-0.03246,Stable,,0,No meaningful issue,Low,0.6969805555555556,Medium
+B0C2ZMJW53,performance,2023Q3,0.1538,0.1538,0.05571999999999999,Stable,,0,No meaningful issue,Low,0.6859305555555556,Medium
+B00NOSVK54,camera,2023Q3,0.0,0.0,-0.09139,Stable,,0,No meaningful issue,Low,0.6923655555555556,Medium
+B00NOSVK54,display,2023Q3,0.0,0.0,-0.06715,Stable,2022Q2,0,No meaningful issue,Low,0.7214355263157896,Medium
+B00NOSVK54,thermal,2023Q3,0.1429,0.1429,0.1429,Stable,,0,No meaningful issue,Low,0.6893905263157896,Medium
+B00NOSVK54,performance,2023Q3,0.0,0.0,-0.06577999999999999,Stable,,0,No meaningful issue,Low,0.6444442857142857,Medium
+B00TW47DSW,display,2023Q3,0.0,-0.0714,-0.1321,Stable,,0,No meaningful issue,Low,0.6888005882352942,Medium
+B07GM2J11Q,keyboard,2023Q3,0.0,-0.5714,-0.12017,Declining,,0,No meaningful issue,Low,0.6734800000000001,Medium
+B00TW47DSW,camera,2023Q3,0.125,-0.0179,0.02463,Stable,,0,No meaningful issue,Low,0.7273061538461539,Medium
+B00TW47DSW,battery,2023Q3,0.0,-0.0769,-0.10414000000000001,Stable,,0,No meaningful issue,Low,0.6759955882352942,Medium
+B019BX7F86,camera,2023Q3,0.0,0.0,-0.055360000000000006,Stable,,0,No meaningful issue,Low,0.6767755882352942,Medium
+B019BX7F86,display,2023Q3,0.1429,0.1429,0.09249,Stable,,0,No meaningful issue,Low,0.6090233333333334,Medium
+B07GM2J11Q,display,2023Q3,0.1538,0.1538,0.13499999999999998,Stable,,0,No meaningful issue,Low,0.6850855555555556,Medium
+B019BX7F86,performance,2023Q3,0.1,-0.011099999999999999,0.07342,Stable,,0,No meaningful issue,Low,0.7596266666666667,Medium
+B00TW47DSW,thermal,2023Q3,0.1818,0.1818,0.11937999999999999,Stable,,0,No meaningful issue,Low,0.6591150000000001,Medium
+B019BX7F86,battery,2023Q3,0.0,0.0,-0.044109999999999996,Stable,,0,No meaningful issue,Low,0.7028955555555556,Medium
+B00TW47DSW,performance,2023Q3,0.375,0.375,0.32738,Stable,,1,Existing issue,Medium,0.6277611538461538,Medium
+B07GM2J11Q,performance,2023Q3,0.1667,0.1667,0.10658,Stable,,0,No meaningful issue,Low,0.6824305882352941,Medium
+B01MPXRXR0,thermal,2023Q3,0.0,0.0,-0.04281,Stable,,0,No meaningful issue,Low,0.6397211538461539,Medium
+B07GM2J11Q,battery,2023Q3,0.0,-0.0769,-0.07688,Stable,,0,No meaningful issue,Low,0.6454842857142857,Medium
+B0C2ZMJW53,display,2023Q3,0.0909,0.01949999999999999,0.014479999999999993,Stable,,0,No meaningful issue,Low,0.67881,Medium
+B00L49X8E6,battery,2023Q3,0.0833,0.0833,0.06078,Stable,,0,No meaningful issue,Low,0.6815205882352942,Medium
+B00NOSVK54,battery,2023Q3,0.0,-0.2857,-0.14194,Stable,,0,No meaningful issue,Low,0.6890505555555556,Medium
+B07GM2J11Q,thermal,2023Q3,0.0,0.0,-0.05363,Stable,,0,No meaningful issue,Low,0.6774450000000001,Medium
+B00L49X8E6,keyboard,2023Q3,0.1111,-0.1389,-8.000000000001062e-05,Stable,,0,No meaningful issue,Low,0.6417142857142857,Medium
+B00L49X8E6,display,2023Q3,0.1111,0.1111,0.05428,Stable,,0,No meaningful issue,Low,0.6481492857142858,Medium
+B00KB7O49K,display,2023Q3,0.0,0.0,-0.05,Stable,2021Q4,0,No meaningful issue,Low,0.5725899999999999,Low
+B00KB7O49K,performance,2023Q3,0.0,0.0,-0.03333,Stable,,0,No meaningful issue,Low,0.57506,Low
+B0C2ZMJW53,battery,2023Q3,0.0,0.0,-0.032619999999999996,Stable,2022Q4,0,No meaningful issue,Low,0.6775666666666667,Medium
+B00KB7O49K,thermal,2023Q3,0.0,-0.5,-0.1,Stable,,0,No meaningful issue,Low,0.46448357142857144,Low
+B00KB7O49K,battery,2023Q3,0.0,0.0,0.0,Stable,,0,No meaningful issue,Low,0.5133635714285714,Low
+B00KB7O49K,camera,2023Q3,0.0,0.0,0.0,Stable,,0,No meaningful issue,Low,0.5979286363636364,Low
+B00L49X8E6,thermal,2023Q3,0.0833,0.0833,0.05588,Stable,,0,No meaningful issue,Low,0.6769055882352942,Medium
+B00L49X8E6,performance,2023Q3,0.3636,0.22069999999999998,0.34097999999999995,Stable,,2,New / rapidly increasing issue,Medium,0.76386,Medium
+B00FFJ0HUE,performance,2023Q3,0.0,0.0,0.0,Stable,2021Q3,0,No meaningful issue,Low,0.5614961111111111,Low
+B00FFJ0HUE,thermal,2023Q3,0.2,0.2,0.13,Stable,,0,No meaningful issue,Low,0.56219,Low
+B0C2ZMJW53,keyboard,2023Q3,0.0714,0.0714,0.017770000000000008,Stable,,0,No meaningful issue,Low,0.6914705263157895,Medium
+B00FFJ0HUE,keyboard,2023Q3,0.0,0.0,0.0,Stable,,0,No meaningful issue,Low,0.5412811111111111,Low

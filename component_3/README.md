@@ -135,25 +135,6 @@ The proposed framework will be compared against:
 
 ---
 
-## Evaluation Plan
-
-The implementation will be evaluated using:
-
-- Accuracy
-- Macro-F1
-- Precision
-- Recall
-- F1 Score
-- Detection Delay
-- Coverage / Calibration
-- Topic Coherence
-- Topic Stability
-- Human Validation
-- Ablation Study
-
-Chronological / rolling-origin validation will be used to avoid temporal data leakage.
-
----
 
 ## Component Dependencies
 
