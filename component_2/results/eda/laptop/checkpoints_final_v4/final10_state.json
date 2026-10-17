@@ -1,0 +1,246 @@
+{
+  "pipeline_version": "laptop_pp1_final_v4",
+  "final_product_signature": "aadb4ba4a3479533",
+  "completed_shards": [
+    "raw_review_Electronics/full-00000-of-00034.parquet",
+    "raw_review_Electronics/full-00001-of-00034.parquet",
+    "raw_review_Electronics/full-00002-of-00034.parquet",
+    "raw_review_Electronics/full-00003-of-00034.parquet",
+    "raw_review_Electronics/full-00004-of-00034.parquet",
+    "raw_review_Electronics/full-00005-of-00034.parquet",
+    "raw_review_Electronics/full-00006-of-00034.parquet",
+    "raw_review_Electronics/full-00007-of-00034.parquet",
+    "raw_review_Electronics/full-00008-of-00034.parquet",
+    "raw_review_Electronics/full-00009-of-00034.parquet",
+    "raw_review_Electronics/full-00010-of-00034.parquet",
+    "raw_review_Electronics/full-00011-of-00034.parquet",
+    "raw_review_Electronics/full-00012-of-00034.parquet",
+    "raw_review_Electronics/full-00013-of-00034.parquet",
+    "raw_review_Electronics/full-00014-of-00034.parquet",
+    "raw_review_Electronics/full-00015-of-00034.parquet",
+    "raw_review_Electronics/full-00016-of-00034.parquet",
+    "raw_review_Electronics/full-00017-of-00034.parquet",
+    "raw_review_Electronics/full-00018-of-00034.parquet",
+    "raw_review_Electronics/full-00019-of-00034.parquet",
+    "raw_review_Electronics/full-00020-of-00034.parquet",
+    "raw_review_Electronics/full-00021-of-00034.parquet",
+    "raw_review_Electronics/full-00022-of-00034.parquet",
+    "raw_review_Electronics/full-00023-of-00034.parquet",
+    "raw_review_Electronics/full-00024-of-00034.parquet",
+    "raw_review_Electronics/full-00025-of-00034.parquet",
+    "raw_review_Electronics/full-00026-of-00034.parquet",
+    "raw_review_Electronics/full-00027-of-00034.parquet",
+    "raw_review_Electronics/full-00028-of-00034.parquet",
+    "raw_review_Electronics/full-00029-of-00034.parquet",
+    "raw_review_Electronics/full-00030-of-00034.parquet",
+    "raw_review_Electronics/full-00031-of-00034.parquet",
+    "raw_review_Electronics/full-00032-of-00034.parquet",
+    "raw_review_Electronics/full-00033-of-00034.parquet"
+  ],
+  "diagnostics": [
+    {
+      "review_shard": "raw_review_Electronics/full-00000-of-00034.parquet",
+      "rows_scanned": 1290793,
+      "final_product_reviews_matched": 530,
+      "cumulative_final_reviews": 530
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00001-of-00034.parquet",
+      "rows_scanned": 1290793,
+      "final_product_reviews_matched": 489,
+      "cumulative_final_reviews": 1019
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00002-of-00034.parquet",
+      "rows_scanned": 1290793,
+      "final_product_reviews_matched": 564,
+      "cumulative_final_reviews": 1583
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00003-of-00034.parquet",
+      "rows_scanned": 1290793,
+      "final_product_reviews_matched": 568,
+      "cumulative_final_reviews": 2151
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00004-of-00034.parquet",
+      "rows_scanned": 1290793,
+      "final_product_reviews_matched": 507,
+      "cumulative_final_reviews": 2658
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00005-of-00034.parquet",
+      "rows_scanned": 1290793,
+      "final_product_reviews_matched": 516,
+      "cumulative_final_reviews": 3174
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00006-of-00034.parquet",
+      "rows_scanned": 1290793,
+      "final_product_reviews_matched": 489,
+      "cumulative_final_reviews": 3663
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00007-of-00034.parquet",
+      "rows_scanned": 1290793,
+      "final_product_reviews_matched": 539,
+      "cumulative_final_reviews": 4202
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00008-of-00034.parquet",
+      "rows_scanned": 1290793,
+      "final_product_reviews_matched": 470,
+      "cumulative_final_reviews": 4672
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00009-of-00034.parquet",
+      "rows_scanned": 1290793,
+      "final_product_reviews_matched": 511,
+      "cumulative_final_reviews": 5183
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00010-of-00034.parquet",
+      "rows_scanned": 1290793,
+      "final_product_reviews_matched": 526,
+      "cumulative_final_reviews": 5709
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00011-of-00034.parquet",
+      "rows_scanned": 1290793,
+      "final_product_reviews_matched": 542,
+      "cumulative_final_reviews": 6251
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00012-of-00034.parquet",
+      "rows_scanned": 1290793,
+      "final_product_reviews_matched": 519,
+      "cumulative_final_reviews": 6770
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00013-of-00034.parquet",
+      "rows_scanned": 1290793,
+      "final_product_reviews_matched": 564,
+      "cumulative_final_reviews": 7334
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00014-of-00034.parquet",
+      "rows_scanned": 1290793,
+      "final_product_reviews_matched": 563,
+      "cumulative_final_reviews": 7897
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00015-of-00034.parquet",
+      "rows_scanned": 1290793,
+      "final_product_reviews_matched": 513,
+      "cumulative_final_reviews": 8410
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00016-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 525,
+      "cumulative_final_reviews": 8935
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00017-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 572,
+      "cumulative_final_reviews": 9507
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00018-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 554,
+      "cumulative_final_reviews": 10061
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00019-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 514,
+      "cumulative_final_reviews": 10575
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00020-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 2279,
+      "cumulative_final_reviews": 12854
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00021-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 411,
+      "cumulative_final_reviews": 13265
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00022-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 397,
+      "cumulative_final_reviews": 13662
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00023-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 681,
+      "cumulative_final_reviews": 14343
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00024-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 409,
+      "cumulative_final_reviews": 14752
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00025-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 889,
+      "cumulative_final_reviews": 15641
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00026-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 349,
+      "cumulative_final_reviews": 15990
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00027-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 357,
+      "cumulative_final_reviews": 16347
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00028-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 391,
+      "cumulative_final_reviews": 16738
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00029-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 1654,
+      "cumulative_final_reviews": 18392
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00030-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 578,
+      "cumulative_final_reviews": 18970
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00031-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 1212,
+      "cumulative_final_reviews": 20182
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00032-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 154,
+      "cumulative_final_reviews": 20336
+    },
+    {
+      "review_shard": "raw_review_Electronics/full-00033-of-00034.parquet",
+      "rows_scanned": 1290792,
+      "final_product_reviews_matched": 96,
+      "cumulative_final_reviews": 20432
+    }
+  ]
+}

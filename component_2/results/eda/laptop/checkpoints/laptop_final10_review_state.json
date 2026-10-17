@@ -1,0 +1,14 @@
+{
+  "final_product_signature": "b452563a1715979b",
+  "completed_shards": [
+    "raw_review_Electronics/full-00000-of-00034.parquet"
+  ],
+  "review_diagnostics": [
+    {
+      "review_shard": "raw_review_Electronics/full-00000-of-00034.parquet",
+      "rows_scanned": 1290793,
+      "final_product_reviews_matched": 530,
+      "cumulative_final_reviews": 530
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pipeline_version": "laptop_pp1_final_v4",
+  "dataset_id": "McAuley-Lab/Amazon-Reviews-2023",
+  "metadata_revision": "main",
+  "review_revision": "32b99ef490c11e6d63223d962253bc696bdae583",
+  "selected_parent_asins": [
+    "B009T3EYHO",
+    "B01K1IO3QW",
+    "B07GM2J11Q",
+    "B07N6S4SY1",
+    "B081V6W99V",
+    "B0869L1326",
+    "B08GG9QKX6",
+    "B096JQY4YR",
+    "B0C2ZMJW53",
+    "B0C7H1XD7V"
+  ],
+  "product_selection_uses_helpful_votes": false,
+  "final_sampling_policy": "Full final-product review extraction followed by deterministic chronological time-spread selection of 100 raw reviews/product.",
+  "duplicate_definition": [
+    "parent_asin",
+    "text"
+  ],
+  "stable_review_id": "SHA256(parent_asin||asin||timestamp||title||text)[:16]",
+  "timestamp_unit": "ms",
+  "preliminary_target": "log_helpful",
+  "split_policy": "Per-product chronological 70/15/15"
+}
