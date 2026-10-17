@@ -1,0 +1,3 @@
+category,test_reviews,mae,rmse,spearman,ndcg_at_5,ndcg_at_10,model,source_type,feature_note
+Smartphone,137,0.5632,0.6655,0.3097,0.5882,0.6511,TF-IDF + Ridge (alpha=10),previously_verified_smartphone_notebook_03,Review title and text
+Laptop,150,0.4266704253217614,0.5025440333523064,0.3222682870139928,0.5526182931758451,0.6833655573588298,text_metadata_alpha_10,saved_laptop_test_metrics_csv,Review text and numeric metadata
