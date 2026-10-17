@@ -1,0 +1,14 @@
+{
+  "model_name": "roberta-base",
+  "seed": 42,
+  "max_length": 224,
+  "batch_size": 8,
+  "epochs": 3,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "temperature": 1.5113378763198853,
+  "smoke_test": false,
+  "save_model_weights": false,
+  "device": "cpu"
+}
