@@ -1,0 +1,10 @@
+check,status,details
+Required artifact inventory,PASS,38 files available
+Saved notebook error outputs,PASS,No saved execution errors detected
+Smartphone cleaned dataset,PASS,"896 reviews, 10 products"
+Laptop cleaned dataset,PASS,"997 reviews, 10 products"
+Laptop Function 1 consistency,PASS,997 predictions; chronological split valid
+Laptop semantic representation,PASS,997 embeddings; 384 dimensions; IDs aligned
+Laptop Function 2 evidence selection,PASS,7 selectors; 350 records; minority locks retained
+Cross-category evaluation consistency,PASS,140 metrics and 14 summaries reconciled
+Cross-category evidence provenance,PASS,10 source hashes verified
