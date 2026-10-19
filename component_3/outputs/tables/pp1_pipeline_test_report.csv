@@ -1,0 +1,13 @@
+test_name,passed,detail
+Latest-output schema,True,Missing columns: []
+Unique Product-Aspect-Quarter rows,True,Duplicate PAQ rows: 0
+One latest row per Product-Aspect,True,Duplicate latest rows: 0
+Product count consistency,True,"Latest products=10, summary products=10"
+Quality is within 0-100,True,"Min=35.5, Max=82.8"
+Confidence is within 0-1,True,"Min=0.464, Max=0.787"
+Trend labels are valid,True,"Observed: ['Declining', 'Stable']"
+Emerging-status values are valid,True,"Observed: [np.int64(0), np.int64(1), np.int64(2)]"
+Risk labels are valid,True,"Observed: ['High', 'Low', 'Medium']"
+Emerging status 2 is not Low risk,True,Violations: 0
+Status 0 maps to Low risk,True,Violations: 0
+Quality confidence intervals are valid,True,Lower <= Upper and both within 0-100

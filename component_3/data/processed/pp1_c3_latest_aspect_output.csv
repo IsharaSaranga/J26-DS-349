@@ -1,0 +1,51 @@
+parent_asin,aspect,latest_quarter,review_count,review_perceived_quality_dev,quality_ci_lower_dev,quality_ci_upper_dev,trend,change_point,emerging_status,emerging_label,issue_risk,confidence_dev
+B019BX7F86,thermal,2023Q3,11,45.9,42.1,49.7,Declining,2023Q1,2,New / rapidly increasing issue,High,0.771
+B01K1IO3QW,battery,2023Q3,11,57.1,49.7,64.3,Stable,,0,No meaningful issue,Low,0.766
+B01K1IO3QW,thermal,2023Q3,9,35.5,32.1,39.5,Declining,2022Q4,2,New / rapidly increasing issue,High,0.763
+B01MPXRXR0,battery,2023Q3,12,36.5,30.9,42.4,Declining,2022Q4,2,New / rapidly increasing issue,High,0.787
+B01K1IO3QW,keyboard,2023Q3,9,68.3,61.5,75.1,Stable,,0,No meaningful issue,Low,0.647
+B01K1IO3QW,display,2023Q3,11,62.9,57.7,67.3,Stable,,0,No meaningful issue,Low,0.775
+B00FFJ0HUE,battery,2023Q3,4,64.0,58.8,68.5,Stable,,0,No meaningful issue,Low,0.553
+B00FFJ0HUE,display,2023Q3,4,68.8,63.9,73.1,Stable,,0,No meaningful issue,Low,0.557
+B0C2ZMJW53,thermal,2023Q3,9,69.5,61.9,76.6,Stable,,0,No meaningful issue,Low,0.638
+B01MPXRXR0,performance,2023Q3,14,62.5,57.2,67.2,Stable,,0,No meaningful issue,Low,0.696
+B01MPXRXR0,display,2023Q3,14,65.8,60.9,70.9,Stable,,0,No meaningful issue,Low,0.696
+B01MPXRXR0,camera,2023Q3,8,67.5,63.1,72.8,Stable,,0,No meaningful issue,Low,0.641
+B01K1IO3QW,performance,2023Q3,13,70.1,65.9,74.6,Stable,,0,No meaningful issue,Low,0.697
+B0C2ZMJW53,performance,2023Q3,13,56.2,50.8,61.1,Stable,,0,No meaningful issue,Low,0.686
+B00NOSVK54,camera,2023Q3,13,68.8,63.5,74.1,Stable,,0,No meaningful issue,Low,0.692
+B00NOSVK54,display,2023Q3,14,82.8,78.1,87.2,Stable,2022Q2,0,No meaningful issue,Low,0.721
+B00NOSVK54,thermal,2023Q3,14,63.6,56.9,70.4,Stable,,0,No meaningful issue,Low,0.689
+B00NOSVK54,performance,2023Q3,9,62.0,55.3,68.3,Stable,,0,No meaningful issue,Low,0.644
+B00TW47DSW,display,2023Q3,12,65.0,61.1,69.1,Stable,,0,No meaningful issue,Low,0.689
+B07GM2J11Q,keyboard,2023Q3,11,66.6,61.6,72.8,Declining,,0,No meaningful issue,Low,0.674
+B00TW47DSW,camera,2023Q3,8,52.6,49.7,56.5,Stable,,0,No meaningful issue,Low,0.727
+B00TW47DSW,battery,2023Q3,12,60.3,54.3,66.8,Stable,,0,No meaningful issue,Low,0.676
+B019BX7F86,camera,2023Q3,12,67.3,60.9,73.9,Stable,,0,No meaningful issue,Low,0.677
+B019BX7F86,display,2023Q3,7,59.0,53.5,64.6,Stable,,0,No meaningful issue,Low,0.609
+B07GM2J11Q,display,2023Q3,13,67.7,60.0,73.5,Stable,,0,No meaningful issue,Low,0.685
+B019BX7F86,performance,2023Q3,10,63.2,57.9,68.7,Stable,,0,No meaningful issue,Low,0.76
+B00TW47DSW,thermal,2023Q3,11,62.6,54.6,71.2,Stable,,0,No meaningful issue,Low,0.659
+B019BX7F86,battery,2023Q3,13,72.5,68.4,76.7,Stable,,0,No meaningful issue,Low,0.703
+B00TW47DSW,performance,2023Q3,8,65.1,54.5,73.0,Stable,,1,Existing issue,Medium,0.628
+B07GM2J11Q,performance,2023Q3,12,65.1,57.9,71.5,Stable,,0,No meaningful issue,Low,0.682
+B01MPXRXR0,thermal,2023Q3,8,70.6,65.2,76.2,Stable,,0,No meaningful issue,Low,0.64
+B07GM2J11Q,battery,2023Q3,9,60.4,55.9,65.2,Stable,,0,No meaningful issue,Low,0.646
+B0C2ZMJW53,display,2023Q3,11,65.2,59.3,69.7,Stable,,0,No meaningful issue,Low,0.679
+B00L49X8E6,battery,2023Q3,12,65.6,58.8,72.2,Stable,,0,No meaningful issue,Low,0.682
+B00NOSVK54,battery,2023Q3,13,63.7,59.0,68.4,Stable,,0,No meaningful issue,Low,0.689
+B07GM2J11Q,thermal,2023Q3,11,69.4,63.9,75.4,Stable,,0,No meaningful issue,Low,0.677
+B00L49X8E6,keyboard,2023Q3,9,60.4,54.3,67.7,Stable,,0,No meaningful issue,Low,0.642
+B00L49X8E6,display,2023Q3,9,65.2,59.0,71.0,Stable,,0,No meaningful issue,Low,0.648
+B00KB7O49K,display,2023Q3,5,66.4,59.4,73.5,Stable,2021Q4,0,No meaningful issue,Low,0.573
+B00KB7O49K,performance,2023Q3,5,64.8,60.2,69.4,Stable,,0,No meaningful issue,Low,0.575
+B0C2ZMJW53,battery,2023Q3,10,78.2,72.9,83.1,Stable,2022Q4,0,No meaningful issue,Low,0.678
+B00KB7O49K,thermal,2023Q3,2,63.6,59.2,68.0,Stable,,0,No meaningful issue,Low,0.464
+B00KB7O49K,battery,2023Q3,2,79.5,79.3,79.6,Stable,,0,No meaningful issue,Low,0.513
+B00KB7O49K,camera,2023Q3,6,70.6,66.1,75.9,Stable,,0,No meaningful issue,Low,0.598
+B00L49X8E6,thermal,2023Q3,12,71.6,64.0,79.2,Stable,,0,No meaningful issue,Low,0.677
+B00L49X8E6,performance,2023Q3,11,58.4,50.7,66.0,Stable,,2,New / rapidly increasing issue,Medium,0.764
+B00FFJ0HUE,performance,2023Q3,4,77.1,70.6,83.4,Stable,2021Q3,0,No meaningful issue,Low,0.562
+B00FFJ0HUE,thermal,2023Q3,5,61.2,53.4,69.8,Stable,,0,No meaningful issue,Low,0.562
+B0C2ZMJW53,keyboard,2023Q3,14,64.4,57.6,70.8,Stable,,0,No meaningful issue,Low,0.692
+B00FFJ0HUE,keyboard,2023Q3,4,66.7,61.8,74.0,Stable,,0,No meaningful issue,Low,0.541
