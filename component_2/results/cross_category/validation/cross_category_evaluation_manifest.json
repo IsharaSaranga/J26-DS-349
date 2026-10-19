@@ -1,0 +1,76 @@
+{
+  "milestone": 13,
+  "categories": [
+    "Smartphone",
+    "Laptop"
+  ],
+  "selector_variants": 7,
+  "products_per_category": 10,
+  "review_budget": 5,
+  "fidelity_threshold": 0.35,
+  "bootstrap_resamples": 2000,
+  "bootstrap_seed": 42,
+  "source_files": {
+    "smartphone_baselines": {
+      "relative_path": "results\\selector_evaluation\\baseline_comparison_by_product.csv",
+      "sha256": "d07b8b50c67d0b5127c955749156ac084898509ae17e450f3224064f0c1ea6b1",
+      "size_bytes": 9645
+    },
+    "smartphone_evaluation_config": {
+      "relative_path": "results\\selector_evaluation\\evaluation_config.json",
+      "sha256": "ed0d66753060af1db5014808ef4cf0b0afad953971feaef0803f74f7ffeac186",
+      "size_bytes": 755
+    },
+    "smartphone_refinement": {
+      "relative_path": "results\\selector_refinement\\fidelity_selector_comparison.csv",
+      "sha256": "bb12bbc576a8b31de18611e4fcb44b60dffa8c861369e5d323e55df80375fd9f",
+      "size_bytes": 3737
+    },
+    "smartphone_outcomes": {
+      "relative_path": "results\\selector_refinement\\selector_refinement_outcomes.csv",
+      "sha256": "f71c739baeab7d11efeba3694672469e65f83a32d991b9f34f2729d4e27670ea",
+      "size_bytes": 1250
+    },
+    "smartphone_refinement_config": {
+      "relative_path": "results\\selector_refinement\\selector_refinement_config.json",
+      "sha256": "fdfdc945804038b136c185377a83edf3370fdcb77c9728da026621746cd561bf",
+      "size_bytes": 1570
+    },
+    "laptop_selector": {
+      "relative_path": "results\\selector\\laptop\\stage_b\\laptop_selector_product_metrics.csv",
+      "sha256": "14b171c2e791c050ac549927bdebb97290a203a6aa18e2c696961a9aaecf5f77",
+      "size_bytes": 10917
+    },
+    "laptop_outcomes": {
+      "relative_path": "results\\selector\\laptop\\stage_b\\laptop_fidelity_repair_summary.csv",
+      "sha256": "6b4d9c8ddf32552efe50a4951064b3b4fa9446df78789492bf0afb3e55e37291",
+      "size_bytes": 969
+    },
+    "laptop_stage_b_config": {
+      "relative_path": "results\\selector\\laptop\\stage_b\\laptop_stage_b_config.json",
+      "sha256": "a43b311d857cac9d48adb94abb23ac3ecbd43f97f7594f38b2b4230e07a1c4b0",
+      "size_bytes": 906
+    },
+    "laptop_f1_metrics": {
+      "relative_path": "results\\usefulness\\laptop\\laptop_test_metrics.csv",
+      "sha256": "d3b0ebbc722d95ebb8923fd168ee8efbe9aad42d9a35184377794e044182efe6",
+      "size_bytes": 328
+    },
+    "laptop_f1_config": {
+      "relative_path": "results\\usefulness\\laptop\\laptop_model_config.json",
+      "sha256": "2d03546aa18928f3d26aa585e99747a0c427296f121f91df81bfb6435a84dcc1",
+      "size_bytes": 1805
+    }
+  },
+  "function1_smartphone_source": "Previous verified smartphone Function 1 execution; figures manually transcribed from recorded results.",
+  "real_c1_integrated": false,
+  "selector_evaluation_status": "prototype_descriptive_cross_category",
+  "metric_compatibility_notes": [
+    "The two categories use synthetic C1 fixtures.",
+    "Training-review usefulness scores include in-sample model predictions.",
+    "Function 1 feature configurations differ.",
+    "Protected minority coverage and priority minority coverage are not directly equated.",
+    "Product-level bootstrap intervals are descriptive and do not prove generalization.",
+    "No product-level cross-category pairing exists."
+  ]
+}

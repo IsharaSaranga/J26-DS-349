@@ -1,0 +1,23 @@
+{
+  "pipeline_version": "laptop_pp1_final_v4",
+  "raw_rows": 1000,
+  "cleaned_rows": 997,
+  "rows_removed": 3,
+  "products": 10,
+  "zero_helpful_count": 617,
+  "zero_helpful_pct": 61.88565697091274,
+  "raw_helpful_skewness": 29.847647799397414,
+  "log_helpful_skewness": 3.794551936264662,
+  "earliest_review": "2012-10-24 22:06:32+00:00",
+  "latest_review": "2023-08-31 18:30:13.869000+00:00",
+  "verified_purchase_pct": 95.0852557673019,
+  "age_helpful_spearman_rho": 0.1710388828134002,
+  "age_helpful_spearman_p": 5.5129470050124254e-08,
+  "length_helpful_spearman_rho": 0.4861635616634896,
+  "length_helpful_spearman_p": 2.8396566405484705e-60,
+  "preliminary_usefulness_target": "log_helpful",
+  "target_evidence_status": "supported_for_pp1_cross_category_baseline",
+  "metadata_laptop_candidates": 32877,
+  "eligible_products": 185,
+  "final_product_signature": "aadb4ba4a3479533"
+}

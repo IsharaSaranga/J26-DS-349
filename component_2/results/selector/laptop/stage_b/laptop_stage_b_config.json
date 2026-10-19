@@ -1,0 +1,33 @@
+{
+  "milestone": 12,
+  "stage": "B_laptop_selector",
+  "products": 10,
+  "reviews": 997,
+  "budget_k": 5,
+  "priority_groups": 2,
+  "reserved_minority_slots": 2,
+  "weights": {
+    "usefulness": 0.3,
+    "representativeness": 0.25,
+    "coverage": 0.2,
+    "minority": 0.25,
+    "redundancy": 0.2
+  },
+  "mmr_lambda": 0.7,
+  "fidelity_threshold": 0.35,
+  "max_repair_swaps": 3,
+  "max_mean_utility_drop": 0.1,
+  "c1_source": "synthetic_c1_fixture",
+  "real_c1_integrated": false,
+  "evaluation_status": "prototype_integration_not_independent_research_evidence",
+  "selected_methods": [
+    "AspectCoverage",
+    "FidelityRefined",
+    "FullProposed",
+    "HelpfulnessMMR",
+    "ObservedHelpfulTopK",
+    "PredictedUsefulnessTopK",
+    "ProposedNoMinority"
+  ],
+  "prediction_warning": "Training-review scores are in-sample; validation scores were used in model selection."
+}

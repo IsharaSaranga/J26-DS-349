@@ -1,0 +1,61 @@
+{
+  "milestone": 11,
+  "category": "laptop",
+  "dataset": "data\\pilot\\laptop_pilot_cleaned.parquet",
+  "split_file": "results\\eda\\laptop\\laptop_chronological_split.csv",
+  "target": "log_helpful",
+  "candidate_alphas": [
+    0.1,
+    1.0,
+    10.0,
+    100.0
+  ],
+  "feature_modes": [
+    "text_only",
+    "text_metadata"
+  ],
+  "selected_model": "text_metadata_alpha_10",
+  "selected_alpha": 10.0,
+  "selected_feature_mode": "text_metadata",
+  "model_selection_metric": "validation_ndcg_at_10",
+  "test_policy": "held_out_no_retuning",
+  "numeric_features": [
+    "rating",
+    "verified_purchase",
+    "review_length_words",
+    "age_days"
+  ],
+  "forbidden_predictors": [
+    "age_adjusted",
+    "helpful_vote",
+    "log_helpful",
+    "product_relative",
+    "raw_helpful",
+    "review_id",
+    "split"
+  ],
+  "all_review_prediction_warning": "Training review predictions are in-sample; validation reviews were used for model selection. Only test predictions are held out.",
+  "ranking_metric_note": "Per-product NDCG excludes products with no positive relevance labels and reports the eligible product count.",
+  "test_metrics": {
+    "model": "text_metadata_alpha_10",
+    "review_count": 150,
+    "product_count": 10,
+    "ndcg_eligible_products": 9,
+    "mae": 0.42667042532176147,
+    "rmse": 0.5025440333523064,
+    "spearman": 0.32226828701399285,
+    "ndcg_at_5": 0.5526182931758451,
+    "ndcg_at_10": 0.6833655573588298
+  },
+  "dummy_test_metrics": {
+    "model": "DummyRegressor",
+    "review_count": 150,
+    "product_count": 10,
+    "ndcg_eligible_products": 9,
+    "mae": 0.5045862952381475,
+    "rmse": 0.5471530667744704,
+    "spearman": NaN,
+    "ndcg_at_5": 0.3172697435054717,
+    "ndcg_at_10": 0.4529593517124016
+  }
+}

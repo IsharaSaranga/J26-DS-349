@@ -1,0 +1,9 @@
+metric,value
+raw_rows,1000
+missing_text,0
+empty_text,2
+duplicate_product_text,1
+missing_rating,0
+missing_helpful_vote,0
+missing_timestamp,0
+missing_verified_purchase,0
