@@ -1,0 +1,11 @@
+parent_asin,latest_quarter,mean_aspect_quality_dev,declining_aspects,improving_aspects,emerging_aspects,existing_issue_aspects,maximum_issue_risk,mean_issue_confidence_dev
+B00FFJ0HUE,2023Q3,67.6,0,0,0,0,Low,0.555
+B00KB7O49K,2023Q3,69.0,0,0,0,0,Low,0.545
+B00L49X8E6,2023Q3,64.2,0,0,1,0,Medium,0.682
+B00NOSVK54,2023Q3,68.2,0,0,0,0,Low,0.687
+B00TW47DSW,2023Q3,61.1,0,0,0,1,Medium,0.676
+B019BX7F86,2023Q3,61.6,1,0,1,0,High,0.704
+B01K1IO3QW,2023Q3,58.8,1,0,1,0,High,0.73
+B01MPXRXR0,2023Q3,60.6,1,0,1,0,High,0.692
+B07GM2J11Q,2023Q3,65.8,1,0,0,0,Low,0.673
+B0C2ZMJW53,2023Q3,66.7,0,0,0,0,Low,0.674
