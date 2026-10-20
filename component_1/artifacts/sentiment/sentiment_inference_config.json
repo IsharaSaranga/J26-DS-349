@@ -1,0 +1,23 @@
+{
+  "model_version": "sentiment_roberta_v1",
+  "model_name": "roberta-base",
+  "num_labels": 3,
+  "sentiment_to_id": {
+    "negative": 0,
+    "neutral": 1,
+    "positive": 2
+  },
+  "id_to_sentiment": {
+    "0": "negative",
+    "1": "neutral",
+    "2": "positive"
+  },
+  "max_length": 224,
+  "temperature": 1.5113378763198853,
+  "calibration_version": "temperature_scaling_v1",
+  "input_contract": {
+    "text": "original review text",
+    "canonical_aspect": "detected canonical aspect"
+  },
+  "score_definition": "p_positive - p_negative"
+}
