@@ -1,0 +1,48 @@
+{
+  "model_name": "roberta-base",
+  "seed": 42,
+  "max_length": 192,
+  "batch_size": 8,
+  "epochs": 3,
+  "learning_rate": 2e-05,
+  "projection_dim": 256,
+  "dropout": 0.2,
+  "common_labels": [
+    "battery",
+    "charging_power",
+    "connectivity",
+    "cpu",
+    "design",
+    "display",
+    "durability",
+    "memory",
+    "performance",
+    "price",
+    "software_system",
+    "usability"
+  ],
+  "phone_specific_labels": [
+    "biometrics_security",
+    "call_quality",
+    "camera",
+    "gps",
+    "mobile_network",
+    "nfc"
+  ],
+  "laptop_specific_labels": [
+    "fans_cooling",
+    "graphics",
+    "keyboard",
+    "motherboard",
+    "mouse",
+    "optical_drive",
+    "portability",
+    "ports",
+    "storage"
+  ],
+  "b3": "generic shared/private representation without semantic hierarchy",
+  "b4": "hierarchy-guided common/specific routing with selective fusion",
+  "smoke_test": false,
+  "save_model_weights": false,
+  "device": "cpu"
+}

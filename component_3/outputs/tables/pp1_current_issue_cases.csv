@@ -1,0 +1,6 @@
+parent_asin,aspect,latest_quarter,review_count,review_perceived_quality_dev,quality_ci_lower_dev,quality_ci_upper_dev,trend,change_point,emerging_status,emerging_label,issue_risk,confidence_dev
+B01MPXRXR0,battery,2023Q3,12,36.5,30.9,42.4,Declining,2022Q4,2,New / rapidly increasing issue,High,0.787
+B019BX7F86,thermal,2023Q3,11,45.9,42.1,49.7,Declining,2023Q1,2,New / rapidly increasing issue,High,0.771
+B00L49X8E6,performance,2023Q3,11,58.4,50.7,66.0,Stable,,2,New / rapidly increasing issue,Medium,0.764
+B01K1IO3QW,thermal,2023Q3,9,35.5,32.1,39.5,Declining,2022Q4,2,New / rapidly increasing issue,High,0.763
+B00TW47DSW,performance,2023Q3,8,65.1,54.5,73.0,Stable,,1,Existing issue,Medium,0.628

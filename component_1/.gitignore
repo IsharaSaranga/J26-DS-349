@@ -16,3 +16,5 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# C1 trained model weights (large files)
+component_1/artifacts/**/*.pt

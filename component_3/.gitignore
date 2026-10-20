@@ -14,13 +14,6 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Large / raw data
-data/raw/
-data/processed/
-data/pilot/*.csv
-data/pilot/*.parquet
-
-
 # Trained model artifacts
 models/
 *.joblib
